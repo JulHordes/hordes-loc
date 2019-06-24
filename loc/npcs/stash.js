@@ -4,11 +4,11 @@ export default {
       en: 'Stash explanation text'
     },
     choices: [{
-      en: 'Yes, open my chest',
+      en: 'Yes, open my stash',
       ru: 'Да, открой мой сундук',
       pt: 'Sim, abre o meu esconderijo',
       es: 'Si, abre mi alijo',
-      fr: 'Oui, ouvre ma cachette',
+      fr: 'Oui, ouvre ma planque',
       de: 'Ja, öffne mein Versteck',
       ko: '네, 내 숨긴 장을여십시오.',
       nl: 'Ja, open mijn voorraad',
@@ -23,7 +23,8 @@ export default {
       bg: 'Да, отворете контейнера',
       cs: 'Ano, otevřete můj kontejner',
       ja: 'はい、コンテナを開けます',
-      ro: 'Da, deschide-mi containerul'
+      ro: 'Da, deschide-mi containerul',
+      da: 'Ja, åben min stash.'
     }]
   }]
 }

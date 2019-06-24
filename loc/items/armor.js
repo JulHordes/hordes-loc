@@ -10,7 +10,7 @@ export default [
       pt: 'Saco rígido com amido que te faz sentir sujo e desgrenhado.',
       nl: 'Zak stijf met zetmeel waardoor je je vies en in de war voelt.',
       hi: 'बनाने आप गंदे और अस्त-व्यस्त लग रहा है स्टार्च के साथ कठोर पद से हटाने।',
-      tl: 'Sack matigas na may arina paggawa ng pakiramdam mo marumi at disheveled.',
+      tl: 'Sack matigas na may arina paggawa ng pakiramdam mo marumi at sira.',
       el: 'Σκουπίστε σφικτά με άμυλο, κάνοντας να νιώσετε βρώμικος και ξεθωριασμένος.',
       bg: 'Уплътнява се с нишесте, за да се почувствате мръсни и разрошени.',
       pl: 'Worek sztywny ze skrobią sprawia, że czujesz się brudny i rozczochrany.',
@@ -19,9 +19,10 @@ export default [
       tr: 'Bu çuvalla beraber insan kendini darmadağın ve saçma hissediyor.',
       cs: 'Pytel tuhý se škrobem, takže se cítíte špinavý a rozcuchaný.',
       ja: 'でんぷんを使って固い袋に入れ、汚れや乱れを感じさせます。',
-      sv: 'Sack stiv med stärkelse som gör att du känner dig smutsig och disheveled.',
+      sv: 'Sack stiv med stärkelse som gör att du känner dig smutsig och rufsig.',
       ko: '자루에 녹말이 묻어있어 더럽고 흐트러진 느낌을줍니다.',
-      ro: 'Sac rigid cu amidon, te face să te simți murdar și ciufulit.'
+      ro: 'Sac rigid cu amidon, te face să te simți murdar și ciufulit.',
+      da: 'Sække stiv med stivelse, så du bliver beskidte og pjusket.'
     }
   },
 
@@ -47,7 +48,8 @@ export default [
       ja: '革のシャツは消耗から消えていった。',
       sv: 'Lädertröja, bleknad från slitage.',
       ko: '마모로 인해 퇴색 한 가죽 셔츠.',
-      ro: 'Cămașă de piele, decolorată de la uzură.'
+      ro: 'Cămașă de piele, decolorată de la uzură.',
+      da: 'Læder skjorte, falmet fra slid.'
     }
   },
 
@@ -72,13 +74,14 @@ export default [
       cs: 'Rázně měkká železná tunika, předaná z mnoha generací dobrodruhů, kteří jdou přes tyto země.',
       ja: 'これらの土地を通り過ぎる何世代にもわたる冒険家から、たぶん柔らかい鉄のチュニックが受け継がれました。',
       sv: 'Mjuk järn tunika, vidarebefordrad från många generationer av äventyrare som passerar över dessa länder.',
-      ko: 'Knobbly 소프트 아이언 튜닉, 많은 세대의 모험가가이 땅을지나갑니다.',
-      ro: 'Tunică de fier fină și colțuroasă, transmisă de multe generații de aventurieri care trec prin aceste ținuturi.'
+      ko: '노블 블리 소프트 아이언 튜닉, 많은 세대의 모험가가이 땅을지나갑니다.',
+      ro: 'Tunică de fier fină și colțuroasă, transmisă de multe generații de aventurieri care trec prin aceste ținuturi.',
+      da: 'Knudret blød jern tunika, videreført fra mange generationer af eventyrere, der passerer over disse lande.'
     }
   },
 
   {
-    name       : {$$: 'Quilted Leather' },
+    name       : {$$: 'Leather Jerkin' },
     description: {
       en: 'This fabric isn\'t much, but it might stop an arrow or two.',
       ru: 'Эта ткань не очень, но она может остановить стрелу или две.',
@@ -99,7 +102,8 @@ export default [
       ja: 'この布はあまりありませんが、それは矢印1、2を止めるかもしれません。',
       sv: 'Det här tyget är inte mycket, men det kan sluta med en pil eller två.',
       ko: '이 직물은 그다지 많지는 않지만 두세 개의 화살이 멈출 수 있습니다.',
-      ro: 'Materialul acesta nu e cine știe ce, dar ar putea opri o săgeată sau două.'
+      ro: 'Materialul acesta nu e cine știe ce, dar ar putea opri o săgeată sau două.',
+      da: 'Dette stof er ikke meget, men det kan stoppe en pil eller to.'
     }
   },
 
@@ -125,34 +129,35 @@ export default [
       ja: 'かつてこれらの土地を歩き回っていた強力なドラゴンから取った鱗で作られたハードスーツ。',
       sv: 'Hård kostym gjord av vågar som tagits från en mäktig drake som en gång strövade över dessa länder.',
       ko: '한때이 땅을 배회 한 강력한 용에서 가져온 비늘로 만든 단단한 옷.',
-      ro: 'Costum tare făcut din solzii luați de la un dragon puternic ce odată cutreiera aceste tărâmuri.'
+      ro: 'Costum tare făcut din solzii luați de la un dragon puternic ce odată cutreiera aceste tărâmuri.',
+      da: 'Hård kjole lavet af skalaer taget fra en mægtig drage, der engang roamede disse lande.'
     }
   },
 
   {
-    name       : {$$: 'Sky Cloak' },
+    name       : {$$: 'Sky Mail' },
     description: {
-      en: 'Rumours say its made from clouds...',
+      en: 'Rumours say it\'s made from clouds...',
       ru: 'Слухи говорят, что она сделана из облаков...',
       es: 'Los rumores dicen que está hecho de las nubes...',
       de: 'Gerüchte besagen, dass es aus den Wolken gemacht wurde...',
-      fr: 'Les rumeurs disent que c\'est fait à partir des nuages...',
+      fr: 'Les rumeurs disent que ce manteau est fait à partir des nuages...',
       pt: 'Os rumores dizem que é feito de nuvens...',
       tl: 'Sinasabi ng mga alingawngaw na ginawa mula sa mga ulap ...',
       nl: 'Geruchten zeggen dat het gemaakt is van wolken... ',
       hi: 'अफवाहें इसकी बादलों से बना कहते हैं ...',
       pl: 'Plotki mówią, że zrobione z chmur...',
       it: 'Voci dicono che è fatto di nuvole...',
-      el: 'Φήμες λένε ότι έγιναν από σύννεφα ...',
-      bg: 'Слуховете казват, че са направени от облаци ...',
+      el: 'Φήμες λένε ότι έγιναν από σύννεφα...',
+      bg: 'Слуховете казват, че са направени от облаци...',
       ht: 'Rimè di ke li te fè soti nan nyaj...',
       tr: 'Buluttan yapıldığına dair dedikodular var...',
-      cs: 'Pověsti říkají, že jsou vyrobeny z mraků ...,',
+      cs: 'Pověsti říkají, že jsou vyrobeny z mraků..,',
       ja: 'うわさは雲から作られたと言う...',
-      sv: 'Rykten säger att den är gjord av moln ...',
+      sv: 'Rykten säger att den är gjord av moln...',
       ko: '소문은 구름으로 만든다고 ...',
-      ro: 'Zvonurile spun că e făcută din nori...'
-
+      ro: 'Zvonurile spun că e făcută din nori...',
+      da: 'Ryger siger, at det er lavet af skyer...'
     }
   },
 
@@ -178,44 +183,46 @@ export default [
       ja: '着用者は影とうまく溶け込みます...あるいは泥棒は考えます。',
       sv: 'Bäraren blandar sig snyggt med skuggorna ... eller så tjuvarna tänker.',
       ko: '착용자는 그림자와 잘 어울립니다 ... 또는 도둑들이 생각합니다.',
-      ro: 'Purtătorul se amestecă frumos printre umbre... sau așa cred hoții.'
+      ro: 'Purtătorul se amestecă frumos printre umbre... sau așa cred hoții.',
+      da: 'Brugeren passer godt sammen med skyggerne... eller så tøverne tænker.'
     }
   },
 
   {
-    name       : {$$: 'Obsidian Cloak' },
+    name       : {$$: 'Runic Halfplate' },
     description: {
-      en: 'Forged by unknown magicians, you wear a deep, dark and powerful chestplate.',
-      ru: 'Выкованный неизвестными магами, вы носите глубокий, темный и мощный нагрудник.',
-      es: 'Forjado por magos desconocidos, llevas una placa de pecho profunda, oscura y poderosa.',
-      de: 'Geschmiedet von unbekannten Magiern, trägst du einen tiefen, dunklen und kraftvollen Brustschild.',
-      fr: 'Forgé par des magiciens inconnus, vous portez une plaque de poitrine profonde, sombre et puissante.',
-      pt: 'Forjado por mágicos desconhecidos, você usa uma couraça profunda, escura e poderosa.',
-      nl: 'Gesmeed door onbekende tovenaars, draag je een diep, donker en krachtig borstplaatje.',
-      hi: 'अज्ञात जादूगर द्वारा जाली, आप एक गहरी अंधेरे और शक्तिशाली chestplate पहनते हैं।',
-      pl: 'Wykute przez nieznanych magów, nosisz głęboką, ciemną i potężną płytę piersiową.',
+      en: 'Forged by unknown magicians, you wear a dark and powerful chestplate.',
+      ru: 'Выкованный неизвестными магами, вы носите темный и мощный нагрудник.',
+      es: 'Forjado por magos desconocidos, llevas una placa de pecho oscura y poderosa.',
+      de: 'Geschmiedet von unbekannten Magiern, trägst du einen dunklen und kraftvollen Brustschild.',
+      fr: 'Forgé par des magiciens inconnus, vous portez un plastron d\'un métal sombre et puissant.',
+      pt: 'Forjado por mágicos desconhecidos, você usa uma couraça escura e poderosa.',
+      nl: 'Gesmeed door onbekende tovenaars, draag je een donker en krachtig borstplaatje.',
+      hi: 'अज्ञात जादूगर द्वारा जाली, आप एक गहरी अंधेरे और शक्तिशाली छाती प्लेट पहनते हैं।',
+      pl: 'Wykute przez nieznanych magów, nosisz ciemną i potężną płytę piersiową.',
       tl: 'Peke sa pamamagitan ng hindi kilalang mga magicians magsuot ka ng isang malalim na madilim at malakas na wallplate.',
-      el: 'Σφυρηλατημένοι από άγνωστους μάγους φορούν μια βαθιά σκοτεινή και ισχυρή chestplate.',
-      bg: 'Изковани от неизвестни магьосници, носите дълбок тъмен и мощен гръден плот.',
-      it: 'Forgiato da maghi sconosciuti, si indossa un profondo, scuro e potente pettorale.',
-      ht: 'Fòje pa majisyen unknown, ou mete yon gwo twou san fon, piyè pwatrin nwa ak pwisan.',
+      el: 'Σφυρηλατημένοι από άγνωστους μάγους φορούν μια βαθιά σκοτεινή και ισχυρή στήθος-πλάκα.',
+      bg: 'Изковани от неизвестни магьосници, носите дълбок и мощен гръден плот.',
+      it: 'Forgiato da maghi sconosciuti, si indossa un scuro e potente pettorale.',
+      ht: 'Fòje pa majisyen unknown, ou mete yon gwo twou san piyè pwatrin nwa ak pwisan.',
       tr: 'Bilinmeyen bir büyücü tarafından dövülmüş. Derin karanlık ve güçlü bir zırh.',
-      cs: 'Kované neznámými kouzelníky, nosíte hluboký, temný a silný hrudník.',
+      cs: 'Kované neznámými kouzelníky, nosíte temný a silný hrudník.',
       ja: '未知の魔術師によって鍛えられて、あなたは深くて暗くて強力なチェストプレートを身に付けます。',
-      sv: 'Smidd av okända magiker, har du en djup, mörk och kraftfull bröstkorg.',
+      sv: 'Smidd av okända magiker, har du en mörk och kraftfull bröstkorg.',
       ko: '알려지지 않은 마술사에 의해 위조 된, 당신은 깊고 어둡고 강력한 가슴 판을 착용합니다.',
-      ro: 'Făurită de magicieni necunoscuți, porți o armură toracică profundă, întunecată și puternică.'
+      ro: 'Făurită de magicieni necunoscuți, porți o armură toracică întunecată și puternică.',
+      da: 'Smedet af ukendte tryllekunstnere, har du en mørk og kraftig brystplade.'
     }
   },
 
   {
-    name       : {$$: 'Hellfire Cloak' },
+    name       : {$$: 'Hellfire Fullplate' },
     description: {
       en: 'Forged in unknown valleys, it provides protection for your weak, fleshy body.',
       ru: 'Выкованный в неизвестных долинах, он обеспечивает защиту вашему слабому, мясистому телу.',
       es: 'Forjada desde las valles desconocidos, proporciona protección para tu cuerpo débil y carnoso.',
       de: 'In unbekannten Tälern geschmiedet, bietet es Schutz für Ihren schwachen, fleischigen Körper.',
-      fr: 'Forgé des vallées inconnues, il protège votre corps faible et charnu.',
+      fr: 'Forgé dans des vallées inconnues, il protège votre corps faible et charnu.',
       pt: 'Forjado das vales desconhecidos, ele fornece proteção para seu corpo fraco e carnudo.',
       nl: 'Gesmeed uit de onbekende valleien, biedt het bescherming voor je zwakke, vlezige lichaam.',
       hi: 'अज्ञात घाटियों में जाली, यह आपके कमजोर, मांसल शरीर के लिए सुरक्षा प्रदान करती है।',
@@ -230,7 +237,8 @@ export default [
       ja: '未知の渓谷で鍛造され、それはあなたの弱い、肉質の体を保護します。',
       sv: 'Smidd i okända dalar, det ger skydd för din svaga köttiga kropp.',
       ko: '미지의 계곡에서 위조되어있어 약한 육체를 보호합니다.',
-      ro: 'Forjată în văi necunoscute, îți oferă protecție pentru corpul tău slab, cărnos.'
+      ro: 'Forjată în văi necunoscute, îți oferă protecție pentru corpul tău slab, cărnos.',
+      da: 'Smedet i ukendte dale, det giver beskyttelse for din svage, kødelige krop.'
     }
   },
 
@@ -241,7 +249,7 @@ export default [
       ru: 'Когда враги убиты, их души добавляются в коллекцию владельца.',
       es: 'Cuando los enemigos son asesinados, sus almas se añaden a la colección del poseedor.',
       de: 'Wenn Feinde getötet werden, werden ihre Seelen der Sammlung des Führers hinzugefügt.',
-      fr: 'Quand des ennemis sont tués, leurs âmes sont ajoutées à la collection du maniaque.',
+      fr: 'Quand des ennemis sont tués, leurs âmes sont ajoutées à la collection du porteur.',
       pt: 'Quando os inimigos são mortos, suas almas são adicionadas à coleção do portador.',
       nl: 'Wanneer vijanden worden gedood, worden hun zielen toegevoegd aan de collectie van de drager.',
       tl: 'Kapag ang mga kaaway ay pinatay ang kanilang mga kaluluwa ay idinagdag sa koleksyon ng mga gumagamit.',
@@ -256,7 +264,8 @@ export default [
       ja: '敵が殺害されたとき、彼らの魂は野郎のコレクションに追加されます。',
       sv: 'När fiender slås, läggs deras själar till wielderens samling.',
       ko: '적들이 살해 당하면 그들의 영혼이 수비수의 소장품에 추가됩니다.',
-      ro: 'Când dușmanii sunt uciși, sufletele lor sunt adăugate la colecția posesorului.'
+      ro: 'Când dușmanii sunt uciși, sufletele lor sunt adăugate la colecția posesorului.',
+      da: 'Når fjender slås, bliver deres sjæle tilføjet til wielderens samling.'
     }
   },
 
@@ -267,7 +276,7 @@ export default [
       ru: 'Слухи говорят, что носитель брони бессмертен. К сожалению, эту броню можно найти только на трупах.',
       es: 'Los rumores dicen que el portador es inmortal. Desafortunadamente, esta armadura sólo se encuentra en los cadáveres de los muertos.',
       de: 'Gerüchten zufolge ist der Träger unsterblich. Leider ist diese Rüstung nur auf den Leichen der Erschlagenen zu finden.',
-      fr: 'Les rumeurs disent que le porteur est immortel. Malheureusement, cette armure ne peut être trouvée que sur les cadavres des victimes.',
+      fr: 'Les rumeurs disent que le porteur de cette armure est immortel. Malheureusement, elle ne peut être trouvée que sur les cadavres des victimes.',
       pt: 'Rumores dizem que o portador é imortal. Infelizmente esta armadura só pode ser encontrada nos cadáveres dos mortos.',
       tl: 'Sinasabi ng mga alingawngaw na ang tagapagsuot ay walang kamatayan. Sa kasamaang palad ang armor na ito ay matatagpuan lamang sa mga bangkay ng mga napatay.',
       nl: 'Er gaan geruchten dat de drager onsterfelijk is. Helaas is dit harnas alleen te vinden op lijken van de gedode personen.',
@@ -282,7 +291,8 @@ export default [
       ja: '噂によると、着用者は不滅です。残念ながらこの装甲は殺人の死体にしか見られません。',
       sv: 'Rykten säger att bäraren är odödlig. Tyvärr kan denna rustning endast hittas på de dödas lik.',
       ko: '소문은 착용자가 불멸하다고 말한다. 불행히도이 갑옷은 살해 된 시체에서만 발견 할 수 있습니다.',
-      ro: 'Zvonurile spun că purtătorul este nemuritor. Din păcate, această armură poate fi găsită doar pe cadavrele celor uciși.'
+      ro: 'Zvonurile spun că purtătorul este nemuritor. Din păcate, această armură poate fi găsită doar pe cadavrele celor uciși.',
+      da: 'Rygerne siger, at bæreren er udødelig.  Desværre er denne rustning kun fundet på lig af de dræbte.'
     }
   }
 

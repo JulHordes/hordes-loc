@@ -7,7 +7,7 @@ export default [
       hi: 'यह पहले से ही आधा टूट गया है और आप अभी भी इसे प्रयोग कर रहे हैं?',
       es: '¿Ya está medio roto y todavía lo estás usando?',
       de: 'Es ist bereits halb gebrochen und du benutzt es immer noch?',
-      fr: 'Il est déjà à moitié cassé et vous l\'utilisez toujours ?',
+      fr: 'Il est déjà à moitié cassé et vous l\'utilisez toujours?',
       pt: 'Já está meio partido e ainda estás a usá-lo?',
       nl: 'Het is al voor de helft gebroken en je gebruikt het nog steeds?',
       pl: 'Jest już w połowie zepsuty, a ty nadal go używasz?',
@@ -21,7 +21,8 @@ export default [
       ko: '벌써 절반이 고장 났고 당신은 아직도 그것을 사용하고 있습니까?',
       ro: 'E deja pe jumătate rupt și tu încă îl mai folosești?',
       tl: 'Ito ay kalahati na sira at ginagamit mo pa rin ito?',
-      tr: 'Zaten yarısı bozuk ve hala kullanıyor musun?'
+      tr: 'Zaten yarısı bozuk ve hala kullanıyor musun?',
+      da: 'Det er allerede halvt brudt, og bruger du stadig det?'
     }
   },
 
@@ -35,7 +36,7 @@ export default [
       de: 'Das sollten hämmernde Nägel sein, nicht Schädel.',
       el: 'Αυτό πρέπει να σφυρηλατεί τα νύχια και όχι τα κρανία.',
       bg: 'Това трябва да бъде чукане на нокти, а не черепи.',
-      fr: 'Ça devrait être des clous martelés, pas des crânes.',
+      fr: 'Ça devrait enfoncer des clous, pas des crânes.',
       pt: 'Isto devia ser martelar pregos, não caveiras.',
       nl: 'Dit zouden hamerende spijkers moeten zijn, geen schedels.',
       pl: 'To powinno być młotkowanie gwoździ, a nie czaszek.',
@@ -47,12 +48,13 @@ export default [
       ko: '이것은 두개골이 아니라 망치질하는 손톱이어야합니다.',
       ro: 'Acest lucru ar trebui să fie ciocan pentru cuie, nu cranii.',
       tl: 'Ito ay dapat na pagmamartilyo mga kuko, hindi skulls.',
-      tr: 'Kafatasları değil çivileri çekiçlemek için kullanılmalıdır'
+      tr: 'Kafatasları değil çivileri çekiçlemek için kullanılmalıdır',
+      da: 'Dette burde være hammering negle, ikke kranier.'
     }
   },
 
   {
-    name       : {$$: 'Rusty Flail' },
+    name       : {$$: 'Primal Mace' },
     description: {
       en: 'Rusty old hammer, on the verge of breaking.',
       ru: 'Ржавый старый молот, на грани поломки.',
@@ -73,7 +75,8 @@ export default [
       ko: '오래 된 녹슨 망치, 깨고 직전.',
       ro: 'Ciocan vechi și ruginit, pe punctul de a se rupe.',
       tl: 'Masungit na lumang martilyo, sa gilid ng paglabag.',
-      tr: 'Paslı eski çekiç, kırma eşiğinde'
+      tr: 'Paslı eski çekiç, kırma eşiğinde',
+      da: 'Rusten gammel hammer, på randen af ​​at bryde.'
     }
   },
 
@@ -86,7 +89,7 @@ export default [
       es: 'Un arma antigua robada de orcos merodeadores que residen en guaridas escondidas.',
       el: 'Ένα αρχαίο όπλο κλεμμένο από μαρατούντες ορκισμούς που κατοικούν σε κρυμμένες κούνιες.',
       de: 'Eine alte Waffe, die von marodierenden Orks gestohlen wurde, die sich in versteckten Höhlen aufhalten.',
-      fr: 'Une arme ancienne volée à des orcs en maraude résidant dans des repaires cachés.',
+      fr: 'Une arme ancienne volée à des orcs en maraude qui habitent des repaires cachés.',
       pt: 'Uma arma antiga roubada aos orcs saqueadores residentes em caves escondidas.',
       nl: 'Een oud wapen dat gestolen is van plunderende orks die in verborgen schuilplaatsen wonen.',
       pl: 'Starożytna broń skradziona z łupieżczych orków mieszkających w ukrytych legowiskach.',
@@ -98,7 +101,9 @@ export default [
       ko: '고대 무기는 숨겨진 의자에있는 오크들을 약탈하여 도난당했습니다.',
       tl: 'Isang sinaunang sandata na ninakaw mula sa mga mandarambong na mga orcs na naninirahan sa mga nakatagong lairs.',
       ro: 'O armă antică furată de la orcii jefuitori ce locuiesc în bârloguri ascunse.',
-      tr: ' Gizli yerlerde gizlenmiş vahşi düşmanlardan alınan eski bir silah.'
+      tr: ' Gizli yerlerde gizlenmiş vahşi düşmanlardan alınan eski bir silah.',
+      da: 'Et gammelt våben stjålet fra marauding orker bosiddende i skjulte lairs.',
+      bg: 'Древно оръжие, откраднато от мародерски орки, живеещи в скрити леговища.'
     }
   },
 
@@ -108,7 +113,7 @@ export default [
       en: 'Large weapon used long ago to destroy skulls.',
       ru: 'Крупное оружие, использованное давным-давно для уничтожения черепов.',
       es: 'Un arma grande usada hace mucho tiempo para destruir cráneos.',
-      fr: 'Grande arme utilisée depuis longtemps pour détruire les crânes.',
+      fr: 'Grande arme utilisée il y a longtemps pour détruire des crânes.',
       de: 'Große Waffe, die vor langer Zeit benutzt wurde, um Schädel zu zerstören.',
       pt: 'Grande arma usada há muito tempo para destruir crânios.',
       ko: '오래전에 두개골을 파괴하는 데 사용 된 대형 무기.',
@@ -124,7 +129,8 @@ export default [
       cs: 'Velká zbraň používaná již dávno k ničení lebek.',
       ja: '頭蓋骨を破壊するために昔使用されていた大きな武器。',
       ro: 'Armă uriașă folosită cu mult timp în urmă pentru a zdrobi capete.',
-      tr: 'Eski zamanlarda düşman kafataslarını yok etmek için kullanılan harika bir silah'
+      tr: 'Eski zamanlarda düşman kafataslarını yok etmek için kullanılan harika bir silah',
+      da: 'Stort våben bruges for længe siden til at ødelægge kranier.'
     }
   },
 
@@ -150,7 +156,8 @@ export default [
       ko: '이상한 막대기 같은 지하실. 원유처럼 보이고 드루이드 오일의 희미한 냄새를 풍깁니다 ...',
       ro: 'Ciudată bâtă. Pare brută și emite un miros slab de uleiuri druide...',
       tl: 'Kakaibang baras martilyo. Mukhang krudo at nagpapalabas ng isang malabong amoy ng mga langis na druga ...',
-      tr: 'Garip çubuk benzeri silah. Cadı yağları gibi kokuyor.'
+      tr: 'Garip çubuk benzeri silah. Cadı yağları gibi kokuyor.',
+      da: 'Mærkelig rod-lignende basher. Synes rå og udsender en svag lugt af druidolier ...'
     }
   },
 
@@ -162,7 +169,7 @@ export default [
       hi: 'प्राचीन बौने इस शक्तिशाली संरचना का निर्माण किया। डार्क और घातक।',
       es: 'Los enanos antiguos forjaron esta poderosa estructura. Oscura y mortal.',
       de: 'Alte Zwerge schmiedeten diese mächtige Struktur. Dunkel und tödlich.',
-      fr: 'Les anciens nains ont forgé cette puissante structure. Sombre et mortel.',
+      fr: 'Les nains anciens ont forgé cette puissante structure. Sombre et mortel.',
       pt: 'Antigos anões forjaram esta poderosa estrutura. Escuros e mortais.',
       el: 'Οι αρχαίοι νάνοι σφυρηλατούσαν αυτήν την πανίσχυρη δομή. Σκούρο και θανατηφόρο.',
       bg: 'Древните джуджета изковали тази могъща структура. Тъмно и смъртоносно.',
@@ -176,7 +183,8 @@ export default [
       ko: '고대의 드워프들은이 강력한 구조물을 만들었습니다. 어둡고 치명적입니다.',
       ro: 'Piticii antici au făcut această structură măreață. Întunecată și mortală.',
       tl: 'Inilaan ng mga sinaunang dwarf ang makapangyarihang istraktura na ito. Madilim at nakamamatay.',
-      tr: 'Eski Cüceler bu güçlü yapıyı yaptı. Karanlık ve ölümcül.'
+      tr: 'Eski Cüceler bu güçlü yapıyı yaptı. Karanlık ve ölümcül.',
+      da: 'Gamle dværge smedet denne mægtige struktur. Mørk og dødelig.'
     }
   },
 
@@ -190,7 +198,7 @@ export default [
       de: 'Es wird gesagt, dass die Augen der Götter folgen dem Verwalter und bringen den Mutigen Glück und den Feiglingen Verderben.',
       el: 'Λέγεται ότι τα μάτια των θεών ακολουθούν το wielder, φέρνοντας τύχη στον γενναίο και μοίρα προς το δειλό.',
       bg: 'Казано е, че очите на боговете следват водача, като донасят съдбата на храбрите и гибелите на страхливите.',
-      fr: 'Il est dit que les yeux des dieux suivent le maître, apportant la fortune aux vaillants et la mort aux lâches.',
+      fr: 'Il est dit que les yeux des dieux suivent le possesseur de ce marteau, apportant la fortune aux vaillants et la mort aux lâches.',
       pt: 'Diz-se que os olhos dos deuses seguem o portador, trazendo fortuna para o valente e a perdição para o covarde.',
       nl: 'Er wordt gezegd dat de ogen van de goden volgen de drager en brengen de dappere en laffe dappere mensen geluk en verdoemenis.',
       pl: 'Mówi się, że oczy bogów podążają za władcą, przynosząc majątek dzielnemu i skazanie tchórzliwego.',
@@ -202,7 +210,8 @@ export default [
       ko: '신들의 눈은 주인을 따라 가며 비겁한 용감한 운명에 운을 가져다 준다고합니다.',
       tl: 'Sinasabi na ang mga mata ng mga diyos ay sumunod sa mangangalakal, nagdadala ng kapalaran sa magiting at kamatayan sa duwag.',
       ro: 'Se spune că zeii urmăresc cu privirea pe purtători, aducându noroc celor bravi și belsteme celor lași.',
-      tr: 'Tanrıların gözlerinin bu silahın taşıyıcısını takip ettiği söylenir. Bu cesur için iyi bir servet getiriyor ve bir korkak için işkence'
+      tr: 'Tanrıların gözlerinin bu silahın taşıyıcısını takip ettiği söylenir. Bu cesur için iyi bir servet getiriyor ve bir korkak için işkence',
+      da: 'Det siges, at gudernes øjne følger wielderen og bringer formue og domme til de fede.'
     }
   },
 
@@ -216,7 +225,7 @@ export default [
       el: 'Άγιο εργαλείο που χρησιμοποιείται από druids για να κάνει θυσίες στους αρχαίους θεούς της φύσης.',
       bg: 'Свещен инструмент, използван от друидите за жертвоприношения на древните богове.',
       de: 'Heiliges Werkzeug, das von Druiden benutzt wird, um dem großen Gott Yggdrasil Opfer zu bringen.',
-      fr: 'Outil sacré utilisé par les druides pour faire des sacrifices au grand dieu, Yggdrasil.',
+      fr: 'Outil sacré utilisé par les druides pour faire des sacrifices aux dieux anciens de la nature.',
       pt: 'Ferramenta sagrada usada pelos druidas para fazer sacrifícios aos deuses da natureza antiga.',
       nl: 'Heilig instrument gebruikt door druïden om offers te brengen aan de oude natuurgoden.',
       pl: 'Święte narzędzie używane przez druidów do składania ofiar starożytnym bogom natury.',
@@ -228,7 +237,8 @@ export default [
       ko: '드루이드가 고대 성전의 희생 제물을 만들기 위해 사용한 거룩한 도구.',
       ro: 'Instrument sfânt folosit de druizi pentru a face sacrificii, oferite zeilor antici ai naturii.',
       tl: 'Ang Banal na tool na ginagamit ng mga druid upang gumawa ng mga sakripisyo sa sinaunang mga diyos ng kalikasan.',
-      tr: 'Kutsal aracı antik doğa tanrılara kurban yapmak için druidler tarafından kullanılan'
+      tr: 'Kutsal aracı antik doğa tanrılara kurban yapmak için druidler tarafından kullanılan',
+      da: 'Helligt værktøj, der bruges af druider til at ofre til de gamle naturgud.'
     }
   },
 
@@ -254,7 +264,8 @@ export default [
       ko: '드워프 전사들이 사용하는 무거운 지하실. 알 수없는 금속으로 제작되었으며, 어둡고 무겁습니다.',
       ro: 'Bâtă greoaie folosită de către piticii râzboinici. Făcută dintr-un material necunoacut, întunecat și greu.',
       tl: 'Malakas na basher na ginagamit ng mga mandirigmang dwarven. Ginawa ng isang hindi kilalang metal, madilim at mabigat.',
-      tr: 'Cüce savaşçılar tarafından kullanılan ağır silah. Bilinmeyen bir metalden yapılmış, karanlık ve ağır'
+      tr: 'Cüce savaşçılar tarafından kullanılan ağır silah. Bilinmeyen bir metalden yapılmış, karanlık ve ağır',
+      da: 'Kraftig hammer, der bruges af dværgkrigere. Lavet af et ukendt metal, mørkt og tungt.'
     }
   },
 
@@ -280,7 +291,8 @@ export default [
       cs: 'Mohutné kladivo kované bez ohně, zabíjejícího cokoliv, bez slitování.',
       ja: '強烈なハンマーは熱を加えずに鍛造され、容赦なくできることは何もしません。',
       ro: 'Un ciocan puternic forjat fără căldură, ce ucide orice poate fără milă.',
-      tr: 'Isı olmadan yapılan güçlü bir çekiç. Merhamet olmadan her şeyi öldürür'
+      tr: 'Isı olmadan yapılan güçlü bir çekiç. Merhamet olmadan her şeyi öldürür',
+      da: 'En mægtig hammer smedet uden varme at dræbe alt det kan uden barmhjertighed.'
     }
   },
 
@@ -292,7 +304,7 @@ export default [
       hi: 'मारे गए जानवर की खोपड़ी के साथ शीर्ष पर, यह हथियार उन सभी में आतंक को प्रेरित करता है जो इसके खिलाफ खड़े होते हैं।',
       es: 'Cubierta con el cráneo de un enemigo bestia, esta arma inspira terror en todos los que se oponen a ella.',
       de: 'Diese Waffe, die mit dem Schädel eines getöteten Tieres überzogen ist, weckt Schrecken bei allen, die sich dagegen stellen.',
-      fr: 'Surmontée du crâne d\'une bête tuée, cette arme inspire la terreur à tous ceux qui s\'y opposent.',
+      fr: 'Surmontée du crâne d\'une bête tuée, cette arme inspire la terreur à tous ceux qui s\'y confrontent.',
       pt: 'Coberta com o crânio de uma besta morta, esta arma inspira terror em todos os que estão contra ela.',
       ko: '죽은 짐승의 두개골을 얹은이 무기는 모든 사람에게 공포를 불러 일으킨다.',
       nl: 'Bovenop de schedel van een gedood beest, inspireert dit wapen terreur in iedereen die ertegen staat.',
@@ -306,7 +318,8 @@ export default [
       cs: 'Tato zbraň s lebkou zabitého zvířete vzbuzuje hrůzu ve všech, kteří proti ní stojí.',
       ja: '殺された獣の頭蓋骨をトッピングしたこの武器は、それに立ち向かうすべての人々に恐怖を呼び起こします。',
       ro: 'Acoperită cu craniul unei bestii ucise, această armă inspiră teroare în toți cei ce stau împotriva ei.',
-      tr: 'Üstte ölü bir düşmanın kafatası olan bir silah. Buna karşı çıkan herkese terör getirir.'
+      tr: 'Üstte ölü bir düşmanın kafatası olan bir silah. Buna karşı çıkan herkese terör getirir.',
+      da: 'Topet med et slagtedyrs kraniet inspirerer dette våben terror i alle, der står imod det.'
     }
   },
 
@@ -318,7 +331,7 @@ export default [
       hi: 'काफी आसानी से अपने कमजोर खोपड़ी घुसना कर सकते हैं। या अपने दुश्मनों। शायद तुम्हारा हालांकि।',
       es: 'Cubierta con el cráneo de un enemigo gigante asesinado, esta arma inspira terror en todos los que se oponen a ella.',
       de: 'Mit dem Schädel eines getöteten Riesenfeindes überzogen, inspiriert diese Waffe Schrecken bei allen, die sich dagegen stellen.',
-      fr: 'Surmontée du crâne d\'un ennemi géant assassiné, cette arme inspire la terreur à tous ceux qui s\'y opposent.',
+      fr: 'Peut détruire votre faible crâne plutôt facilement. Ou celui de vos ennemis. Plutôt le vôtre, en fait.',
       bg: 'Може лесно да проникне във вашия слаб череп. Или вашите врагове. Вероятно е твой.',
       el: 'Μπορεί να διεισδύσει το αδύναμο κρανίο σας αρκετά εύκολα. Ή τους εχθρούς σου. Πιθανώς το δικό σου.',
       pt: 'Pode penetrar facilmente no seu crânio fraco. Ou seus inimigos. Provavelmente seu, porém.',
@@ -332,7 +345,8 @@ export default [
       ko: '당신의 연약한 두개골에 아주 쉽게 침투 할 수 있습니다. 또는 당신의 원수. 아마 당신 것.',
       ro: 'Poate penetra craniul tău slab destul de ușor. Sau al dușmanilor tăi. Probabil al tău totuși.',
       tl: 'Maaari bang tumagos ang iyong mahinang bungo na medyo madali. O iyong mga kaaway. Marahil sa iyo kahit na.',
-      tr: 'Bu kolayca kafatası veya düşmanın kafatası kırabilir. Muhtemelen önce senindir.'
+      tr: 'Bu kolayca kafatası veya düşmanın kafatası kırabilir. Muhtemelen önce senindir.',
+      da: 'Kan let trænge ind i din svage kranium. Eller dine fjender. Sandsynligvis din selv.'
     }
   },
 
@@ -358,7 +372,8 @@ export default [
       ko: '이 잔인한 무기에 대한 어떤 것도.',
       ro: 'Nimic bun despre această armă crudă.',
       tl: 'Wala nang uri tungkol sa malupit na sandata na ito.',
-      tr: 'Bu zalim silah hakkında güzel bir şey yok'
+      tr: 'Bu zalim silah hakkında güzel bir şey yok',
+      da: 'Intet venligt om dette grusomme våben.'
     }
   },
 
@@ -384,7 +399,8 @@ export default [
       ko: '치명적이고 통제 할 수없는이 천체 망치는 그 가장 순수한 형태의 공포를 그 광경을 포착 한 불행한 사람들에게 뿌린다.',
       ro: 'Mortal și incontrolabil, acest ciocan ceresc gravează teroarea în cea mai pură formă în acei nefericiți ce l-au văzut.',
       tl: 'Nakamamatay at hindi mapigilan, ang makalangit na martilyo na ito ay nagtatakot ng malaking takot sa pinakadalisay na anyo nito sa mga kapus-palad na nakakakita dito.',
-      tr: 'Ölümcül ve kontrol edilemez. bu Göksel çekiç, terörü en saf haliyle, onu gören talihsiz olanlara dağıtır'
+      tr: 'Ölümcül ve kontrol edilemez. bu Göksel çekiç, terörü en saf haliyle, onu gören talihsiz olanlara dağıtır',
+      da: 'Døde og ukontrollable, æsler denne himmelske hammer terror i sin reneste form til de uheldige, der har set det til syne.'
     }
   },
 
@@ -410,7 +426,8 @@ export default [
       ko: '그것은 세상을 끝낼 힘이 있습니까? 거의 말할 수 없습니다. 그렇다면 우리는 그 사실을 알기에 충분히 오래 살지 않을 것입니다.',
       ro: 'Are puterea de a pune capăt lumilor? Puțini pot spune. Dacă o face, nu vom trăi suficient de mult pentru a afla asta.',
       tl: 'Mayroon ba itong kapangyarihan upang tapusin ang mga mundo? Ang ilang mga maaaring sabihin. Kung gagawin nito, hindi tayo mabubuhay nang matagal upang malaman ito.',
-      tr: 'Dünyaları sona erdirme gücü var mı? Sadece birkaç kişi söyleyebilir. Eğer yaparsa, bunu öğrenmek için yeterince uzun yaşamayacağız.'
+      tr: 'Dünyaları sona erdirme gücü var mı? Sadece birkaç kişi söyleyebilir. Eğer yaparsa, bunu öğrenmek için yeterince uzun yaşamayacağız.',
+      da: 'Har den magt til at ende verdener? Få kan sige. Hvis det gør det, vil vi ikke leve længe nok for at lære af det.'
     }
   },
 
@@ -424,7 +441,7 @@ export default [
       el: 'Ένας μυστηριώδης μάγος μουσκεύει πολλές πολύπλοκες γοητείες σε αυτό το όπλο που φέρνει φρικιαστικές σκέψεις και όνειρα στο πονηρό του.',
       bg: 'Тайнственият магьосник накисна много сложни прелести в това оръжие, довеждайки ужасни мисли и мечти до неговия водач.',
       de: 'Mysteriöser Magier, der mit vielen komplizierten Reizen auf dieser Waffe getränkt ist und schreckliche Gedanken und Träume zu seinem Verwalter bringt.',
-      fr: 'Mystérieux magicien trempé dans de nombreux charmes complexes sur cette arme, apportant des pensées et des rêves épouvantables à celui qui l\'utilise.',
+      fr: 'Un mystérieux magicien a versé sur cette arme de nombreux charmes complexes, apportant des pensées et des rêves épouvantables à celui qui l\'utilise.',
       pt: 'Um mágico misterioso embebeu muitos encantos intrincados nesta arma, trazendo pensamentos e sonhos horríveis ao seu portador.',
       nl: 'Een mysterieuze goochelaar heeft vele ingewikkelde charmes in dit wapen gedrenkt, daardoor het drager van terrible gedachten en dromen.',
       pl: 'Tajemniczy magik nasączył tę broń wieloma zawiłymi wdziękami, przynosząc okropne myśli i marzenia władcy.',
@@ -436,7 +453,8 @@ export default [
       ko: '신비한 마술사가 많은 무기를이 무기에 담아 무시 무시한 생각과 꿈을 그 사람에게 가져다줍니다.',
       ro: 'Un magician misterios a înmuiat această armă în multe farmece complicate, aducând gânduri și vise îngrozitoare deținătorului său.',
       tl: 'Isang misteryosong salamangkero ang sumipsip ng maraming masalimuot na mga kagandahan sa armas na ito, na nagdadala ng malupit na mga kaisipan at mga pangarap sa tagahanga nito.',
-      tr: 'Gizemli bir sihirbaz bu silahın içine birçok şey ekledi. taşıyıcıya korkunç düşünceler ve rüyalar getiriyor.'
+      tr: 'Gizemli bir sihirbaz bu silahın içine birçok şey ekledi. taşıyıcıya korkunç düşünceler ve rüyalar getiriyor.',
+      da: 'En mystisk tryllekunstner gennemblødt mange indviklede charme i dette våben og brækkede forfærdelige tanker og drømme til sin ejer.'
     }
   }
 

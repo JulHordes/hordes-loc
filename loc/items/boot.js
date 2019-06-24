@@ -12,7 +12,7 @@ export default [
       nl: 'Je draagt tenminste iets op die voeten.',
       tr: 'En azından ayağına bir şeyler giyiyorsun.',
       pl: 'Przynajmniej nosisz coś na tych stopach.',
-      sv: 'Åtminstone bär du något på dessa fötter.',
+      sv: 'Du har åtminstone nåt på fötterna.',
       tl: 'Hindi bababa sa ikaw ay may suot ng isang bagay sa mga paa.',
       ht: 'Omwen wap mete yon bagay sou pye sa yo.',
       cs: 'Přinejmenším máš na těch nohách něco.',
@@ -21,7 +21,8 @@ export default [
       bg: 'Поне ти носиш нещо на тези крака.',
       hi: 'काम से काम आप ने अपने पैरों पर कुछ तो पहना है।',
       ko: '적어도 너는 그 발에 무언가를 신었다.',
-      ro: 'Cel puțin poți purta ceva în picioare.'
+      ro: 'Cel puțin poți purta ceva în picioare.',
+      da: 'I det mindste har du noget på disse fødder.'
     }
   },
 
@@ -32,14 +33,14 @@ export default [
       ru: 'Подошвы сделанные из ткани, вероятно, порвутся через несколько часов.',
       de: 'Sohlen aus Stoff, werden wahrscheinlich nach ein paar Stunden reißen.',
       es: 'OI. Estos son calcetines. ¡Dame mis chanclas!',
-      fr: 'Les semelles en tissu se déchirent probablement au bout de quelques heures.',
+      fr: 'Des semelles en tissu, elles se déchireront probablement au bout de quelques heures.',
       it: 'Suole fatte di stoffa, probabilmente si strappano dopo qualche ora.',
       pt: 'Solas feitas de tecido, provavelmente rasgarão depois de algumas horas.',
       nl: 'Zolen van doek, zullen waarschijnlijk na een paar uur scheuren.',
       tr: 'Kumaştan yapılmış tabanlar, birkaç saat sonra muhtemelen yırtılacak.',
       pl: 'Podeszwy wykonane z tkaniny, prawdopodobnie rozerwą się po kilku godzinach.',
       tl: 'Ang mga solong gawa sa tela ay malamang na mapunit pagkatapos ng ilang oras.',
-      sv: 'Soles gjorda av tyg, kommer troligen att riva efter några timmar.',
+      sv: 'Tygsulor som det troligtvis kommer att gå hål i efter några timmar.',
       ht: 'Plant te fè soti nan twal, pwal pwobableman detache apre kèk èdtan.',
       cs: 'Podešve vyrobené z látky se po několika hodinách pravděpodobně roztrhnou.',
       ja: '布で作られた足の裏はおそらく数時間後に裂けるでしょう。',
@@ -47,12 +48,13 @@ export default [
       bg: 'Подметките, направени от плат, вероятно ще се разкъсат след няколко часа.',
       hi: 'इसके तले कपड़े के बने है, थोड़ी डर में फट जाएँगे।',
       ko: '옷감으로 만든 신, 몇 시간 후에 찢어 질 것입니다.',
-      ro: 'Talpa din pânză, probabil se va rupe după câteva ore.'
+      ro: 'Talpa din pânză, probabil se va rupe după câteva ore.',
+      da: 'Soles lavet af klud vil sandsynligvis rive efter et par timer.'
     }
   },
 
   {
-    name       : {$$: 'Leather Boots' },
+    name       : {$$: 'Leather Shoes' },
     description: {
       en: 'The soft leather is said to be stripped off wild boars roaming the eerie woods.',
       ru: 'Говорят, что мягкую кожу сняли с кабанов, бродящих по жутким лесам.',
@@ -73,18 +75,19 @@ export default [
       ja: '柔らかい革は不気味な森を歩き回っているイノシシを剥ぎ取られると言われています。',
       hi: 'इसका नरम चमड़े को डरावने जंगलो में रहने वाले जंगली सूअरो से लिए गया है। ',
       ko: '부드러운 가죽은 섬뜩한 숲을 돌아 다니는 야생 멧돼지에서 벗겨졌다.',
-      ro: 'Se zvonește că pielea moale a fost dezbrăcată de mistreții ce se plimbau prin pădurea stranie.'
+      ro: 'Se zvonește că pielea moale a fost dezbrăcată de mistreții ce se plimbau prin pădurea stranie.',
+      da: 'Det bløde læder siges at være fjernet fra vildsvin, der roaming de uhyggelige skove.'
     }
   },
 
   {
-    name       : {$$: 'Bone Greaves' },
+    name       : {$$: 'Bone Brogans' },
     description: {
       en: 'Clearly lacking in imagination, the maker made boots from the bones of a very large creature...',
       ru: 'Очевидно, у создателя не хватает воображения, ведь он сделал сапоги из костей очень крупного существа ...',
-      de: 'Offensichtlich phantasielos, machte der Hersteller Stiefel aus den Knochen einer sehr großen Kreatur...',
+      de: 'Offensichtlich fantasielos machte der Hersteller Stiefel aus den Knochen einer sehr großen Kreatur...',
       es: 'Claramente sin imaginación, el zapatero uso los huesos de una criatura grande...',
-      fr: 'Manquant clairement d\'imagination, le fabricant a fabriqué des bottes à partir des os d\'une très grande créature....',
+      fr: 'Manquant clairement d\'imagination, le confectionné a fabriqué des bottes à partir des os d\'une très grande créature....',
       it: 'Chiaramente privo di immaginazione, l\'autore ha realizzato stivali dalle ossa di una creatura molto grande...',
       pt: 'Claramente sem imaginação, o fabricante fez botas a partir dos ossos de uma criatura muito grande...',
       nl: 'Duidelijk niet verbeeldingsvol, de maker maakte laarzen van de botten van een zeer groot wezen....',
@@ -99,7 +102,8 @@ export default [
       el: 'Σαφώς λείπει από τη φαντασία ο κατασκευαστής έκανε μπότες από τα οστά ενός πολύ μεγάλου πλάσματος ...',
       bg: 'Очевидно без въображение, производителят е направил ботуши от костите на много голямо същество ...',
       ko: '분명히 상상력이 부족한이 제작자는 매우 큰 생물의 뼈에서 부츠를 만들었습니다...',
-      ro: 'În mod evident lipsit de imaginație, producătorul a făcut cizmele din oasele unei creaturi foarte mari ...'
+      ro: 'În mod evident lipsit de imaginație, producătorul a făcut cizmele din oasele unei creaturi foarte mari ...',
+      da: 'Klart mangler fantasi, skaberen lavede støvler fra knoglerne i et meget stort væsen ...'
     }
   },
 
@@ -125,12 +129,13 @@ export default [
       ja: '神秘的な鱗があなたの履物の外側を覆い、太陽の光を捉えます。',
       hi: 'रहस्यमय शल्क आपके जूतों को ढकते है, जो धूप में प्रकाश को पकड़ते है।',
       ko: '신비한 비늘은 신발의 바깥을 덮고 태양 빛을 따라 잡습니다.',
-      ro: 'Solzi misterioși acoperă exteriorul încălțămintelor tale, atrăgând priviri când stau în soare.'
+      ro: 'Solzi misterioși acoperă exteriorul încălțămintelor tale, atrăgând priviri când stau în soare.',
+      da: 'Mystiske skalaer dækker ydersiden af ​​dit fodtøj og fanger glares i solen.'
     }
   },
 
   {
-    name       : {$$: 'Patterned Greaves' },
+    name       : {$$: 'Shadow Shoes' },
     description: {
       en: 'A pleasant pattern made to paralyze your foes... wonder if it works.',
       ru: 'Приятный узор, созданный, чтобы парализовать ваших врагов... интересно, работает ли он',
@@ -151,7 +156,8 @@ export default [
       el: 'Ένα ευχάριστο σχέδιο για να παραλύσει τους εχθρούς σας ... αναρωτιέται αν λειτουργεί.',
       bg: 'Приятна картина, направена да парализира враговете ви ... чудя се дали работи.',
       ko: '적을 마비시키는 유쾌한 패턴이있다... 되는지는 모르겠다.',
-      ro: 'Un model plăcut făcut pentru a paraliza inamicii... mă întreab dacă funcționează.'
+      ro: 'Un model plăcut făcut pentru a paraliza inamicii... mă întreab dacă funcționează.',
+      da: 'Et behageligt mønster lavet til at lamme dine fjender ... spekulerer på, om det virker.'
     }
   },
 
@@ -177,7 +183,8 @@ export default [
       el: 'Λαμβανόταν από βετεράνους πολέμου που σαφώς δεν βρήκαν αρκετή προστασία από αυτά τα χοντρά σχοινιά.',
       bg: 'Взети от ветерани от войната, които очевидно не са намерили достатъчно защита от тези пръжки.',
       ko: '분명히이 부츠에서 충분한 보호를 찾지 못한 전쟁 참전 용사에게서 가져온 것입니다.',
-      ro: 'Luate de la veterani de război care, evident, nu au găsit suficientă protecție în aceste cizme.'
+      ro: 'Luate de la veterani de război care, evident, nu au găsit suficientă protecție în aceste cizme.',
+      da: 'Taget fra krigsveteraner, der klart ikke fandt tilstrækkelig beskyttelse af disse greve.'
     }
   },
 
@@ -186,9 +193,9 @@ export default [
     description: {
       en: 'Chunky in its looks, probably very uncomfortable.',
       ru: 'Состоят из блочных кусков, наверное, очень неудобные.',
-      de: 'Grob in seinem Aussehen, wahrscheinlich sehr unangenehm.',
+      de: 'Grob in ihrem Aussehen, wahrscheinlich sehr unangenehm.',
       es: 'Macizo y fornido, prbablamente incómodo.',
-      fr: 'Block comme dans son design, probablement très inconfortable.',
+      fr: 'Son design semble grossier, probablement très inconfortable.',
       it: 'Chunky nel suo aspetto, probabilmente molto scomodo.',
       pt: 'Aparentemente volumoso, provavelmente muito desconfortável.',
       nl: 'Mollig in zijn uiterlijk, waarschijnlijk erg ongemakkelijk.',
@@ -203,7 +210,8 @@ export default [
       el: 'Χοντροκομμένο στην εμφάνισή του μάλλον πολύ άβολα.',
       bg: 'Корена си изглежда вероятно много неприятно.',
       ko: '그 모습이 거칠고, 아마도 매우 불편합니다.',
-      ro: 'Arată îndesate, probabil foarte inconfortabile'
+      ro: 'Arată îndesate, probabil foarte inconfortabile',
+      da: 'Chunky i sit udseende, sandsynligvis meget ubehageligt.'
     }
   },
 
@@ -214,7 +222,7 @@ export default [
       ru: 'Беги быстро, как ветер... ну почти.',
       de: 'Laufen Sie so schnell wie der Wind... oder in der Nähe davon.',
       es: 'Con estos zapatos puedes ver el viento y llevarlo contigo.',
-      fr: 'Courir aussi vite que le vent... ou près de lui.',
+      fr: 'Courir aussi vite que le vent... ou presque.',
       it: 'Corri veloce come il vento... o vicino ad esso',
       pt: 'Corra tão rápido como o vento... ou perto dele.',
       nl: 'Ren zo snel als de wind.... of dichtbij.',
@@ -229,7 +237,8 @@ export default [
       ja: '風と同じくらい速く走るか、またはそれに近づける。',
       hi: 'हवा के साथ चलिए... या उससे थोड़ा पीछे।',
       ko: '바람처럼 빨리 달릴 수 있습니다... 그것에 가깝습니다.',
-      ro: 'Fugi rapid ca și vântul... sau aproape ca el.'
+      ro: 'Fugi rapid ca și vântul... sau aproape ca el.',
+      da: 'Kør så hurtigt som vinden ... eller tæt på den.'
     }
   },
 
@@ -240,7 +249,7 @@ export default [
       ru: 'Холодные ботинки выкованы без тепла, которые позволяют бегать без спотыканий.',
       es: 'Botas frías forjadas sin calor que permiten correr sin tropezar.',
       fr: 'Bottes froides forgées sans chaleur qui vous permettent de courir sans trébucher',
-      de: 'Kalte, ohne Hitze geschmiedeten Stiefel, die es Ihnen ermöglichen, ohne Stolpern zu laufen.',
+      de: 'Kalte, ohne Hitze geschmiedete Stiefel, die es Ihnen ermöglichen, ohne Stolpern zu laufen.',
       pt: 'Botas frias forjadas sem calor que lhe permitem correr sem tropeçar',
       ko: '비틀 거리지 않고 달릴 수있는 열없이 단조 된 콜드 부츠',
       nl: 'Koude laarzen gesmeed zonder warmte waardoor u zonder struikelen kunt lopen',
@@ -254,18 +263,19 @@ export default [
       bg: 'Студените ботуши изковани без топлина, които ви позволяват да бягате без препъване',
       cs: 'Studené boty kované bez tepla, které vám umožní běžet bez úrazu',
       ja: 'あなたはつまずくことなく実行することができます熱なしで鍛造コールドブーツ',
-      ro: 'Cizmele reci ca gheața și forjate fără căldură îți permit să alergi fără să te împiedici.'
+      ro: 'Cizmele reci ca gheața și forjate fără căldură îți permit să alergi fără să te împiedici.',
+      da: 'Isnende kold støvler smedet uden varme, som giver dig mulighed for at løbe uden at snuble.'
     }
   },
 
   {
-    name       : {$$: 'Cloudrunner Treads' },
+    name       : {$$: 'Cloudrunners' },
     description: {
       en: 'Some say you can run on clouds with these. The few that have tried have already ascended.',
       ru: 'Некоторые говорят, что с этими ботинками можно бегать по облакам. Те немногие, кто пытался, уже вознеслись.',
       de: 'Einige sagen, dass man damit auf Wolken laufen kann. Die wenigen, die es versucht haben, sind bereits aufgestiegen.',
       es: '¡Corre por las nubes con las nuevas Air Miguels!',
-      fr: 'Certains disent qu\'on peut courir sur les nuages avec ça. Les quelques personnes qui ont essayé ont déjà fait l\'ascension.',
+      fr: 'Certains disent qu\'on peut courir sur les nuages avec elles. Les quelques personnes qui ont essayé y sont déjà montés.',
       it: 'C\'è chi dice che con queste si può correre sulle nuvole. I pochi che hanno provato sono già saliti.',
       pt: 'Alguns dizem que se pode correr em nuvens com isto. Os poucos que tentaram já ascenderam.',
       nl: 'Sommigen zeggen dat je hiermee op wolken kunt lopen. De weinigen die het geprobeerd hebben zijn al opgestegen.',
@@ -280,12 +290,13 @@ export default [
       bg: 'Някои казват, че с тях може да тичате на облаци. Малцината, които са се опитали, вече са се възнесли.',
       ht: 'Yon lòt ankò: ou ka kouri sou nwaj yo ak tout bagay sa. Twa ki te eseye fè deja est.',
       ko: '어떤 사람들은 이장화로 구름 위에서 뛰어 다닐 수 있다고 말한다. 시도한 몇명은 하늘나라로 갔다.',
-      ro: 'Câțiva oameni spun că poți alerga pe nori cu acestea. Puținii care au incercat s-au înălțat deja.'
+      ro: 'Câțiva oameni spun că poți alerga pe nori cu acestea. Puținii care au incercat s-au înălțat deja.',
+      da: 'Nogle siger, at du kan køre på skyer med disse. De få, der har forsøgt, har allerede steget op.'
     }
   },
 
   {
-    name       : {$$: 'Boots of Hermes' },
+    name       : {$$: 'Talaria' },
     description: {
       en: 'Ancient boots rumoured to be stolen from the feet of a messenger god.',
       ru: 'По слухам, древние сапоги были украдены с ног бога-вестника.',
@@ -306,18 +317,19 @@ export default [
       bg: 'Древните ботуши, за които се говори, че са откраднати от краката на бог-посланик.',
       ko: '고대의 부츠는 전령 신의 발에서 도난 당했다고 소문이났다.',
       ht: 'Bòt ansyen yo rimè yo dwe vòlè nan pye yo nan yon bondye mesaje.',
-      ro: 'Bocanci antici, zvoniți a fi furați de la picioarele unui zeu mesager.'
+      ro: 'Bocanci antici, zvoniți a fi furați de la picioarele unui zeu mesager.',
+      da: 'Gamle støvler rygter sig for at blive stjålet fra en messengerguds fødder.'
     }
   },
 
   {
-    name       : {$$: 'Starshard Greaves' },
+    name       : {$$: 'Starshards' },
     description: {
       en: 'Stars were always considered to be almighty, now they\'re yours.',
       ru: 'Звезды всегда считались всемогущими, теперь они твои',
       de: 'Sterne wurden immer als allmächtig angesehen, jetzt gehören sie dir.',
       es: 'Las armas mas peligrosas del universo, chanclas imbuido con la ira y furia de una madre cariñosa.',
-      fr: 'Les étoiles ont toujours été considérées comme tout-puissant, maintenant elles sont à toi.',
+      fr: 'Les étoiles ont toujours été considérées comme toutes-puissantes, maintenant elles t\'appartiennent.',
       it: 'Le stelle sono sempre state considerate onnipotenti, ora sono tue.',
       pt: 'As estrelas sempre foram consideradas todo-poderosas, agora são tuas.',
       nl: 'Sterren werden altijd beschouwd als almachtig, nu zijn ze van jou.',
@@ -332,7 +344,8 @@ export default [
       bg: 'Звездите винаги са били считани за всемогъщи, сега са ваши.',
       ht: 'Zetwal te toujou konsidere tout, koulye a, y\' ap ye.',
       ko: '별은 언제나 전능자로 여겨졌습니다, 이제 당신의 것입니다.',
-      ro: 'Stelele au fost întotdeauna considerate a fi atotputernice, acum sunt ale tale.'
+      ro: 'Stelele au fost întotdeauna considerate a fi atotputernice, acum sunt ale tale.',
+      da: 'Stjerner blev altid betragtet som almægtige, nu er de dine.'
     }
   }
 

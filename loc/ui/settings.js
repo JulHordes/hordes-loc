@@ -6,7 +6,7 @@ export default {
     hi: 'सेटिंग्स',
     es: 'Configuración',
     de: 'Einstellungen',
-    fr: 'Paramétrage',
+    fr: 'Paramètres',
     nl: 'Instellingen',
     tr: 'Ayarlar',
     pt: 'Ajustes',
@@ -20,36 +20,38 @@ export default {
     bg: 'настройки',
     el: 'Ρυθμίσεις',
     tl: 'Mga setting',
-    ro: 'Setări'
+    ro: 'Setări',
+    da: 'Indstillinger'
   },
 
   // ---- Controls
   controls: {
-    en: 'controls',
+    en: 'Controls',
     ru: 'Управление',
-    hi: 'कंट्रोल्स',
-    es: 'controles',
+    hi: 'नियंत्रण',
+    es: 'Controles',
     de: 'Kontrollen',
-    fr: 'commandes',
-    tr: 'kontroller',
-    nl: 'bediening',
-    pt: 'controles',
-    pl: 'kontrole',
+    fr: 'Commandes',
+    tr: 'Kontroller',
+    nl: 'Bediening',
+    pt: 'Controles',
+    pl: 'Sterownica',
     ht: 'kontwòl yo',
-    it: 'regolazione',
+    it: 'Regolazione',
     ko: '통제 수단',
-    cs: 'řízení',
+    cs: 'Řízení',
     ja: 'コントロール',
-    sv: 'kontrollinstrument',
-    bg: 'контроли',
+    sv: 'Kontroll',
+    bg: 'Контроли',
     el: 'διακόπτης',
-    tl: 'mga kontrol',
-    ro: 'controale'
+    tl: 'Mga kontrol',
+    ro: 'Controale',
+    da: 'Controls'
   },
 
   lockedcamera: {
     en: 'Locked camera',
-    ru: 'Заблокировать камеру',
+    ru: 'Заблокированная камера',
     hi: 'कैमरा लॉक',
     es: 'Cámara fija',
     de: 'Gesperrte Kamera',
@@ -67,7 +69,8 @@ export default {
     bg: 'Заключена камера',
     el: 'Κλειδωμένη κάμερα',
     tl: 'naka-lock na camera',
-    ro: 'Blochează camera'
+    ro: 'Blochează camera',
+    da: 'Låst kamera'
   },
 
   // ---- Graphics
@@ -91,7 +94,8 @@ export default {
     bg: 'графика',
     el: 'γραφικών',
     tl: 'Grapika',
-    ro: 'Grafică'
+    ro: 'Grafică',
+    da: 'Grafik'
   },
 
   viewrange: {
@@ -99,7 +103,7 @@ export default {
     ru: 'Дальность прорисовки',
     de: 'Sichtweite',
     nl: 'Weergavebereik',
-    pt: 'Ver gama',
+    pt: 'Distancia de visión',
     pl: 'Zakres widoków',
     it: 'Visualizza la gamma',
     ro: 'Câmp vizual',
@@ -109,12 +113,13 @@ export default {
     bg: 'Преглед на обхвата',
     cs: 'Zobrazit rozsah',
     hi: 'नज़र सीमा',
-    fr: 'Plage d\'affichage',
+    fr: 'Champ de vision',
     tr: 'Görüş mesafesi',
     ht: 'Je ranje',
     ko: '범위보기',
     ja: '表示範囲',
-    tl: 'Tingnan ang saklaw'
+    tl: 'Tingnan ang saklaw',
+    da: 'Omfang af synet'
   },
 
   resolution: {
@@ -133,11 +138,12 @@ export default {
     ko: '게임의 해상도',
     cs: 'Rozlišení',
     ja: '解決',
-    sv: 'mötesbeslut',
+    sv: 'Upplösning',
     bg: 'Резолюция',
     el: 'Ανάλυση',
     tl: 'Resolution',
-    ro: 'Rezoluție'
+    ro: 'Rezoluție',
+    da: 'Løsning'
   },
 
   skilleffects: {
@@ -160,7 +166,8 @@ export default {
     bg: 'Ефекти',
     el: 'Επιπτώσεις δεξιοτήτων',
     tl: 'Mga epekto sa kasanayan',
-    ro: 'Efectele abilităților'
+    ro: 'Efectele abilităților',
+    da: 'Færdighedseffekter'
   },
 
   shadow: {
@@ -169,7 +176,7 @@ export default {
     hi: 'परछाईं क्वालिटी',
     es: 'Calidad de sombra',
     de: 'Schattenqualität',
-    fr: 'Qualité de l\'ombre',
+    fr: 'Qualité des ombres',
     nl: 'Schaduwkwaliteit',
     tr: 'Gölge kalitesi',
     pt: 'Qualidade de sombras',
@@ -183,7 +190,8 @@ export default {
     bg: 'Качество на сенките',
     el: 'Ποιότητα σκιάς',
     tl: 'Kalidad ng anino',
-    ro: 'Calitatea umbrelor'
+    ro: 'Calitatea umbrelor',
+    da: 'Skygge kvalitet'
   },
 
   grassamount: {
@@ -202,11 +210,12 @@ export default {
     ko: '잔디 양',
     cs: 'Množství trávy',
     ja: '草量',
-    sv: 'Gräsbelopp',
+    sv: 'Gräsmängd',
     bg: 'Kоличество трева',
     el: 'Χόρτο ποσό',
     tl: 'Damo halaga',
-    ro: 'Cantitatea de iarbă'
+    ro: 'Cantitatea de iarbă',
+    da: 'Græsbeløb'
   },
 
   // ---- Audio
@@ -220,7 +229,7 @@ export default {
     it: 'Audio',
     ro: 'Audio',
     es: 'Audio',
-    sv: 'Audio',
+    sv: 'Ljud',
     el: 'Ήχος',
     bg: 'звуков',
     cs: 'Вук',
@@ -230,10 +239,10 @@ export default {
     ht: 'Audio',
     ko: '오디오',
     ja: 'オーディオ',
-    tl: 'Audio'
+    tl: 'Audio',
+    da: 'Lyd'
   },
 
-  // "SFX Loudness" is more suitable in some cases
   sfxvolume: {
     en: 'SFX Volume',
     ru: 'Громкость эффектов',
@@ -244,41 +253,43 @@ export default {
     it: 'Volume SFX',
     ro: 'Volum SFX',
     es: 'Volumen SFX',
-    sv: 'SFX Volym',
+    sv: 'SFX-volym',
     el: 'Ενταση SFX',
     bg: 'гръмкостта SFX',
     cs: 'Objem SFX',
     hi: 'इफैक्ट्स की आवाज़',
-    fr: 'SFX Sonie',
+    fr: 'Volume des effets sonores',
     tr: 'SFX Ses Gücü',
     ht: 'Volim SFX',
     ko: 'SFX 볼륨',
     ja: 'SFXボリューム',
-    tl: 'Dami ng SFX'
+    tl: 'Dami ng SFX',
+    da: 'Volumen af SFX'
   },
 
   // ---- Chat
   chat: {
-    en: 'chat',
+    en: 'Chat',
     ru: 'Чат',
     hi: 'चैट',
     es: 'Chat',
     de: 'Chat',
-    fr: 'clavardage',
+    fr: 'Chat',
     nl: 'praten',
     tr: 'sohbet',
     pt: 'bate-papo',
     pl: 'pogawędka',
-    ht: 'chat',
-    it: 'chiacchierata',
+    ht: 'Chat',
+    it: 'Chiacchierata',
     ko: '잡담',
-    cs: 'chatu',
+    cs: 'Chatu',
     ja: 'チャット',
-    sv: 'chatt',
+    sv: 'Chatt',
     bg: 'чат',
     el: 'κουβέντα',
-    tl: 'chat',
-    ro: 'chat'
+    tl: 'Chat',
+    ro: 'Chat',
+    da: 'Chat'
   },
 
   chatwidth: {
@@ -297,11 +308,12 @@ export default {
     ko: '잡담 폭',
     cs: 'Šířka chatu',
     ja: 'チャット幅',
-    sv: 'Chatt bredd',
+    sv: 'Chatt-bredd',
     bg: 'Ширина на чата',
     el: 'πλάτος κουβέντα',
     tl: 'lapad ng chat',
-    ro: 'Lățime chat'
+    ro: 'Lățime chat',
+    da: 'Chat bredde'
   },
 
   chatheight: {
@@ -310,7 +322,7 @@ export default {
     hi: 'चैट की लम्बाई',
     es: 'Altura del chat',
     de: 'Chathöhe',
-    fr: 'Hauteur de clavardage',
+    fr: 'Hauteur de chat',
     nl: 'Chathoogte',
     tr: 'Chat yükskliği',
     pt: 'Altura do chat',
@@ -320,11 +332,12 @@ export default {
     ko: '잡담 노피',
     cs: 'Výška chatu',
     ja: 'チャットの高さ',
-    sv: 'Chathöjd',
+    sv: 'Chatt-höjd',
     bg: 'Височина на чата',
     el: 'ύψος κουβέντα',
     tl: 'taas ng chat',
-    ro: 'Înălțime chat'
+    ro: 'Înălțime chat',
+    da: 'Chat højde'
   },
 
   // ---- User interface
@@ -337,7 +350,7 @@ export default {
     nl: 'Interface',
     it: 'interfaccia',
     ro: 'Interfață',
-    es: 'Interactuar',
+    es: 'Interfaz',
     sv: 'Gränssnitt',
     el: 'Διεπαφή',
     bg: 'интерфейс',
@@ -348,7 +361,8 @@ export default {
     ht: 'Entèfas',
     ko: '인터페이스',
     ja: 'インタフェース',
-    tl: 'Interface'
+    tl: 'Interface',
+    da: 'Grænseflade'
   },
 
   language: {
@@ -371,7 +385,8 @@ export default {
     ht: 'Lang',
     ko: '언어',
     ja: '言語',
-    tl: 'Wika'
+    tl: 'Wika',
+    da: 'Sprog'
   },
 
   invwidth: {
@@ -384,13 +399,17 @@ export default {
     it: 'Larghezza dell\'inventario',
     ro: 'Lățimea inventarului',
     es: 'Ancho de inventario',
-    sv: 'Lager bredd',
+    sv: 'Inventariebredd',
     el: 'Εύρος αποθέματος',
     bg: 'Ширина инвентаря',
     cs: 'Šířka inventáře',
     hi: 'वस्तुसूची की चौड़ाई',
-    fr: 'Largeur d\'inventaire',
-    tl: 'Lapad ng Imbentaryo'
+    fr: 'Largeur de l\'inventaire',
+    tl: 'Lapad ng Imbentaryo',
+    da: 'Lagerbredde',
+    ko: '인벤토리 너비',
+    ht: 'Lajè Envantè',
+    ja: '在庫の幅'
   },
 
   uiscale: {
@@ -400,42 +419,44 @@ export default {
     ro: 'Scala interfeţei',
     pt: 'Escala de interface',
     es: 'Escala de interfaz',
-    fr: 'Balance d\'interface',
+    fr: 'Taille de l\'interface',
     de: 'Schnittstellenwaage',
     ko: '인터페이스 스케일',
     nl: 'Interface schaal',
     pl: 'Skala interfejsów',
-    sv: 'Gränssnittskalan',
+    sv: 'Gränssnittskala',
     ht: 'Echèl Entèfas',
     it: 'Scala d\'interfaccia',
     tl: 'Scale ng interface',
     el: 'Διαβάθμιση κλίμακας',
     bg: 'Интерфейсен мащаб',
     cs: 'Měřítko rozhraní',
-    ja: 'インターフェース規模'
+    ja: 'インターフェース規模',
+    da: 'Grænseflade skala'
   },
 
   tutorial: {
-    en: 'tutorial',
+    en: 'Tutorial',
     ru: 'Обучение',
     hi: 'शिक्षण',
-    es: 'tutorial',
+    es: 'Tutorial',
     de: 'Tutorial',
-    fr: 'didacticiel',
-    nl: 'handleiding',
-    tr: 'öğretici',
-    pt: 'tutorial',
-    pl: 'przewodnik',
-    ht: 'leson patikilye',
-    it: 'tutorial',
-    ko: ' 지도 시간',
-    cs: 'výuku',
+    fr: 'Tutoriel',
+    nl: 'Handleiding',
+    tr: 'Öğretici',
+    pt: 'Tutorial',
+    pl: 'Przewodnik',
+    ht: 'Leson patikilye',
+    it: 'Tutorial',
+    ko: '지도 시간',
+    cs: 'Výuku',
     ja: 'チュートリアル',
-    sv: 'handledning',
+    sv: 'Handledning',
     bg: 'Учение',
     el: 'φροντιστήριο',
-    tl: 'pagtuturo',
-    ro: 'tutorial'
+    tl: 'Pagtuturo',
+    ro: 'Tutorial',
+    da: 'Tutorial'
   },
 
   reset: {
@@ -458,6 +479,7 @@ export default {
     bg: 'Нулиране на урока',
     el: 'επαναφορά φροντιστήριο',
     tl: 'i-reset ang tutorial',
-    ro: 'Resetează tutorialul'
+    ro: 'Resetează tutorialul',
+    da: 'Nulstil tutorial'
   }
 }

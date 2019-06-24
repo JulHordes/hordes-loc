@@ -1,27 +1,28 @@
 export default {
   interactions: [{
     text: {
-      en: 'Ah, I see you traveler. Weary and famished you look. We conjurers, too, roam these fine lands. Would you like me to take you to one?',
-      ru: 'А, вижу тебя путешественник. Ты выглядишь  уставшим и голодным . Мы, волшебники, тоже путешествуем по этим прекрасным землям. Хочешь, я отведу тебя к одному из нас?',
-      fr: 'Bonjour, je peux faire apparaître un portail vers les autres conjurers. Où voudriez-vous aller?',
-      hi: 'आह, मैं आपको देख सकता हूं यात्री। भूखे और थके हारे लग रहे हैं आप। हम मायाविक भी इन सुंदर देशों की यात्रा करते है। क्या मैं आपको कहीं ले चलूं?',
-      es: 'Ah, te veo viajero. Pareces cansado y hambriento. Nosotros, los hechiceros, también, deambulamos por estas bellas tierras. ¿Quieres que te lleve a uno?',
-      de: 'Ah, ich sehe dich als Reisenden. Müd und ausgehungert siehst du aus. Auch wir Zauberer durchstreifen diese schönen Ländereien. Möchtest du, dass ich dich zu einem bringe?',
-      it: 'Ah, vi vedo viaggiatore. Stancato e affamato voi sguardo. Prestigiatori, anche, vaghiamo queste terre fini. voi mi gradiscono prendervi ad uno?',
-      ht: 'O, mwen wè ou vwayajè. Ou gade fatige ak grangou. Nou asistan tou Roaming sa yo bèl tè. Ou vle m \'mennen ou nan yon sèl?',
-      pl: 'Ach, widzę, że jesteś podróżnikiem. Zmęczony i głodny wyglądasz. My, czarnoksiężnicy, również przemierzamy te piękne ziemie. Chcesz, żebym zabrał cię do jednego?',
-      nl: 'Ah, ik zie je reiziger. Moe en uitgehongerd zie je eruit. Wij goochelaars, te, zwerven door dit mooie land. Zou je willen dat ik je naar een van die breng?',
-      pt: 'Ah, vejo-te viajante. Cansado e faminto você olha. Nós, mágico, também andamos por essas terras nobres. Queres que te leve a uma?',
-      sv: 'Ah, jag ser dig resande.  Weary och famished du ser.  Vi medför också förföljare i dessa fina länder.  Vill du att jag ska ta dig till en?',
-      cs: 'Ach, vidím vás cestovatele.  Vzteklý a hladový pohled.  Také se uchylujeme k těmto jemným zemím.  Chcete, abych vás vzal na jednoho?',
-      ja: 'ああ、旅人に会いましょう。疲れきってあなたは見ている。私たちもまた、この素晴らしい土地を歩き回っています。私を連れて行ってもらえますか。',
-      tr: 'Ah, seni görüyorum gezgin. Yorgun ve kurt gibi aç gözüküyorsun. Bu güzel topraklarda dolaşan biz büyücüler de öyleyiz. Seni bir tanesine götürmemi ister misin?',
-      ko: '아, 여행자 본다. 지치고 캄캄 해 보이는 군. 우리의 연인도이 좋은 땅을 돌아 다닌다. 내가 너를 하나에 데려 갈까?',
-      bg: 'Ах, виждам те пътешественико. Изглеждаш гладен и уморен. Ние, Създтелите, също обикаляме по тези прекрасни земи. Искаш ли да те заведа на едно?',
-      el: 'Αξ, σε βλέπω ταξιδιώτη.  Κόκκινος και φτωχός κοιτάζετε.  Και εμείς οι περιπλανώμενοι βόλτα αυτά τα ωραία εδάφη.  Θα θέλατε να σας μεταφέρω σε ένα;',
-      ro: 'Ah, te văd călătorule. Obosit și înfometat arăți. Noi iluzioniștii, de asemenea, cutreierăm aceste pământuri strașnice. Ți-ar plăcea să te duc să vezi unul?',
-      tl: 'Ah, nakikita kita mong biyahero. Nagagalit at gutom na tinitingnan mo. Ang mga conjurer natin, rin, ay naglalakbay sa mga pinong lupain. Gusto mo bang dalhin ka sa isa?'
+      en: 'Have you heard of the Crystal Shards that were discovered recently? Adventurers can use them to travel directly to distant realms. I don\'t have any Crystal Shards, but I can send you to some places since mystic forces converge at this nexus. Which realm is your desired destination?',
+      ru: 'Вы слышали о Crystal Shards, которые были недавно обнаружены? Искатели приключений могут использовать их для перемещения сразу в дальние регионы. У меня нет никаких Crystal Shards, но я могу переместить вас в любое место, так как здесь сходятся мистические силы. Какую зону вы желаете посетить?',
+      sv: 'Har du hört talas om de Crystal Shards som upptäcktes nyligen? Äventyrare kan använda dem för att resa till fjärran riken. Jag har inga Crystal Shards, men jag kan skicka dig till vissa platser eftersom mystiska krafter samlas i denna nexus. Vilken värld vill du resa till?',
+      es: '¿Ha oído de los Crystal Shards que estaban descubierto recientemente? Los aventureros pueden usarlos para viajar directamente a tierras lejanas. No tengo ningún Crytal Shard, pero te puedo enviar a algunos lugares porque hay fuerzas místicas convergentes aquí en este nexo. ¿Adónde quiere ir?',
+      da: 'Har du hørt om Crystal Shards, der blev opdaget for nylig? Eventyrere kan bruge dem til at rejse direkte til fjerne verdener. Jeg har ikke nogen Crystal Shards, men jeg kan sende dig til nogle steder, da mystiske styrker konvergerer i denne sammenhæng. Hvilket rige er din ønskede bestemmelsessted?',
+      hi: 'क्या आपने हाल ही में खोजे गए Crystal Shards के बारे में सुना है? एडवेंचरर उन्हें दूर के स्थानों की यात्रा करने के लिए सीधे उपयोग कर सकते हैं। मेरे पास कोई Crystal Shards नहीं है, लेकिन मैं आपको कुछ स्थानों पर भेज सकता हूं क्योंकि रहस्यवादी ताकतें इस सांठगांठ पर धर्मान्तरित होती हैं। आपका पसंदीदा स्थान कौन सा है?',
+      ko: '최근에 발견 된 Crystal Shards에 대해 들어 보셨습니까? 모험가들은 그들을 사용하여 먼 지역으로 직접 여행 할 수 있습니다. Crystal Shards가 없지만 신비주의 세력이이 관계에 수렴했기 때문에 나를 몇 군데에 보낼 수 있습니다. 원하는 영역은 어느 영역입니까?',
+      nl: 'Heb je gehoord van de Crystal Shards die recentelijk zijn ontdekt? Avonturiers kunnen ze gebruiken om rechtstreeks naar verre rijken te reizen. Ik heb geen Crystal Shards, maar ik kan je naar sommige plaatsen sturen, omdat mystieke krachten samenkomen op deze nexus. Welk rijk is jouw gewenste bestemming?',
+      ht: 'Èske ou tande pale de Crystal Shards ki te dekouvri dènyèman? Avanturyé ka itilize yo vwayaje dirèkteman nan rèy byen lwen. Mwen pa gen okenn Crystal Shards, men mwen ka voye ou ale nan kèk kote depi fòs mistik konvèje nan lyen sa a. Ki domèn se destinasyon ou vle?',
+      pl: 'Czy słyszałeś o Crystal Shards, które zostały niedawno odkryte? Poszukiwacze przygód mogą ich używać, aby podróżować bezpośrednio do odległych królestw. Nie mam żadnego Crystal Shards, ale mogę wysłać cię do niektórych miejsc, ponieważ siły mistyczne zbiegają się w tym splocie. Które królestwo jest twoim pożądanym celem?',
+      cs: 'Slyšeli jste o Crystal Shards, které byly objeveny nedávno? Dobrodruzi je mohou využít k přímému cestování do vzdálených říší. Nemám žádné Crystal Shards, ale můžu vás poslat na některá místa, protože mystické síly se v tomto spoji sbíhají. Která oblast je vaším cílem?',
+      tl: 'Narinig mo na ba ang Crystal Shards na natuklasan kamakailan? Maaaring gamitin ng mga Adventurer ang mga ito upang maglakbay nang direkta sa mga malayong lupain. Wala akong anumang Crystal Shards, ngunit maaari kong ipadala ka sa ilang lugar dahil ang mga mystic pwersa ay nagtatagpo sa koneksyon na ito. Aling lupain ang iyong ninanais na patutunguhan?',
+      ja: '最近発見されたCrystal Shardsについて聞いたことがありますか？冒険者はそれらを使って遠く離れた領域に直接移動することができます。私はCrystal Shardsを持っていません、しかし、神秘的な力がこの結びつきに集中するので、私はあなたをある場所に送ることができます。目的の目的地はどれですか。',
+      el: 'Έχετε ακούσει για το Crystal Shards που ανακαλύφθηκαν πρόσφατα; Οι τυχοδιώκτες μπορούν να τις χρησιμοποιήσουν για να ταξιδέψουν απευθείας σε μακρινά σφαίρα. Δεν έχω κανένα Crystal Shards, αλλά μπορώ να σας στείλω σε μερικά μέρη αφού οι μυστικές δυνάμεις συγκλίνουν σε αυτό το σύνδεσμο. Ποιος τομέας είναι ο επιθυμητός προορισμός σας;',
+      bg: 'Чували ли сте за Crystal Shards, които бяха открити наскоро? Авантюристите могат да ги използват, за да пътуват директно до далечни сфери. Нямам Crystal Shards, но мога да ви изпратя на някои места, тъй като мистичните сили се събират в тази връзка. Коя област е вашата желана дестинация?',
+      de: 'Haben Sie von dem Crystal Shards gehört, das kürzlich entdeckt wurde? Abenteurer können sie nutzen, um direkt in ferne Gebiete zu reisen. Ich habe kein Crystal Shards, aber ich kann dich an einige Orte schicken, da mystische Kräfte in diesem Nexus zusammenkommen. Welcher Bereich ist dein gewünschtes Ziel?',
+      pt: 'Já ouviu falar do Crystal Shards que foi descoberto recentemente? Os aventureiros podem usá-los para viajar directamente para reinos distantes. Eu não tenho nenhum Crystal Shards, mas posso enviar você a alguns lugares já que forças místicas convergem neste nexo. Qual é o seu destino desejado?',
+      it: 'Ha sentito parlare dei Crystal Shards che sono stati scoperti di recente? Gli avventurieri possono usarli per viaggiare direttamente in regni lontani. Non ho nessun Crystal Shards, ma posso mandarvi in alcuni luoghi, dato che le forze mistiche convergono in questo nesso. Quale regno è la destinazione desiderata?',
+      fr: 'Avez-vous entendu parler des Crystal Shards qui ont été découvertes récemment ? Les aventuriers peuvent les utiliser pour voyager directement vers des royaumes lointains. Je n\'ai pas de Crystal Shards, mais je peux vous envoyer à certains endroits puisque les forces mystiques convergent vers ce lien. Quel domaine est votre destination préférée ?',
+      ro: 'Ai auzit de acele Crystal Shards care au fost descoperite recent? Aventurierii le pot folosi pentru a călători direct în tărâmuri îndepărtate. Nu am deloc Crystal Shards, dar te pot trimite în unele locuri din moment ce forțele mistice converg la acest nex. Care tărâm reprezintă destinația dorită?'
     },
+
     choices: [{
       en: 'Please bring me to $1.',
       ru: 'Пожалуйста, отведи меня к $1.',
@@ -42,7 +43,8 @@ export default {
       bg: 'Моля, закарайте ме до $ 1.',
       el: 'Παρακαλώ με φέρτε σε $ 1.',
       ro: 'Te rog, du-mă la $1.',
-      tl: 'Mangyaring dalhin ako sa $1'
+      tl: 'Mangyaring dalhin ako sa $1',
+      da: 'Tag mig med til $1'
     }]
   }]
 }

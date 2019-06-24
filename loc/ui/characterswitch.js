@@ -19,7 +19,8 @@ export default {
     pt: 'Sair',
     pl: 'Wyloguj się',
     ht: 'Dekonekte',
-    ro: 'Deconectare'
+    ro: 'Deconectare',
+    da: 'Afslut'
   },
 
   home: {
@@ -30,17 +31,18 @@ export default {
     de: 'Startseite',
     fr: 'Accueil',
     ko: '홈페이지',
-    bg: 'Начало',
+    bg: 'Домой',
     cs: 'Domov',
-    el: 'Αρχική σελίδα',
+    el: 'σπιτάκι',
     ja: 'ホームページ',
     sv: 'Hemsida',
     tl: 'Bahay',
     tr: 'Anasayfa',
     nl: 'Thuis',
     pt: 'Início',
-    pl: 'Strona główna',
+    pl: 'Domu',
     ht: 'Paj lakay',
-    ro: 'Acasă'
+    ro: 'Acasă',
+    da: 'Gå hjem'
   }
 }

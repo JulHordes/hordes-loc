@@ -1,53 +1,4 @@
 export default {
-
-  clan: {
-    en: 'Clan',
-    /* TODO: Significantly shorten all of below, no longer than 5 chars, otherwise just use "clan" */
-    ru: 'Клан',
-    hi: 'दल',
-    it: 'Clan',
-    es: 'Clan',
-    de: 'Clan',
-    fr: 'Afficher le clan',
-    ko: '클랜 보이기',
-    tr: 'Klan',
-    nl: 'Toon Clan',
-    pt: 'Mostrar Clã',
-    pl: 'Pokaż klan',
-    ht: 'Montre klan',
-    cs: 'Klan',
-    ja: '一族',
-    sv: 'Klan',
-    bg: 'Клан',
-    el: 'Φυλή',
-    tl: 'Lipi',
-    ro: 'Clan'
-  },
-
-  system: {
-    en: 'System',
-    /* TODO: Significantly shorten all below, no longer than 7 chars, otherwise just use "system" */
-    ru: 'Система',
-    hi: 'सिस्टम',
-    it: 'Sistema',
-    es: 'Sistema',
-    de: 'System anzeigen',
-    fr: 'Afficher le système',
-    ko: '시스템 보이기',
-    tr: 'Sistem',
-    nl: 'Toon systeem',
-    pt: 'Mostrar sistema',
-    pl: 'System pokazów',
-    ht: 'Montre Sistèm',
-    cs: 'Systém',
-    ja: 'システム',
-    sv: 'System',
-    bg: 'Система',
-    el: 'Σύστημα',
-    tl: 'System',
-    ro: 'Sistem'
-  },
-
   whisper: {
     en: 'Whisper',
     ru: 'Шептать',
@@ -55,7 +6,7 @@ export default {
     it: 'Sussurro',
     es: 'Susurro',
     de: 'Flüstern',
-    fr: 'Chuchotement',
+    fr: 'Chuchoter',
     ko: '속삭임',
     tr: 'Fısıltı',
     nl: 'Fluisteren',
@@ -68,22 +19,43 @@ export default {
     bg: 'Шепни',
     el: 'Ψίθυρος',
     tl: 'Bulong',
-    ro: 'Șoaptă'
+    ro: 'Șoaptă',
+    da: 'Hvisk'
   },
 
-  // translations not needed
-  loot: {
-    $$: 'Loot'
-  },
-
-  // translations not needed
-  exp: {
-    $$: 'EXP'
-  },
-
-  // translations not needed
-  pvp: {
-    $$: 'PvP'
-  }
-
+  types: [ // dont translate until beta testing
+    {
+      en: 'Exp gain'
+    },
+    {
+      en: 'Target change'
+    },
+    {
+      en: 'Cast'
+    },
+    {
+      en: 'Damage'
+    },
+    {
+      en: 'Heal'
+    },
+    {
+      en: 'Death'
+    },
+    {
+      en: 'Level up'
+    },
+    {
+      en: 'Item'
+    },
+    {
+      en: 'Auction'
+    },
+    {
+      en: 'Pick gold'
+    },
+    {
+      en: 'Spend gold'
+    }
+  ]
 }

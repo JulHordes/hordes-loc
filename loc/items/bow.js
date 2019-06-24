@@ -1,18 +1,18 @@
 export default [
   { // T1 item name. names are english only!
-    name       : {$$: 'Drifwood Shortbow' },
+    name       : {$$: 'Driftwood Shortbow' },
     // Item description
     description: {
       en: 'Almost lightweight. You can probably find something better around.',
       ru: 'Легкий лук. Скорее всего, вы сможете найти что-то получше .',
-      fr: 'Un vrai poid plume. Il y en à sûrement de meilleurs dans le coin.',
+      fr: 'Un vrai poids plume. Il y en à sûrement de meilleurs dans le coin.',
       de: 'Fast leicht. Du kannst wahrscheinlich etwas Besseres finden.',
       es: 'Casi ligero. Probablemente puedas encontrar algo mejor por aquí.',
       pt: 'Quase leve. Você pode provavelmente encontrar algo melhor ao redor.',
       nl: 'Bijna lichtgewicht. Je kunt waarschijnlijk iets beters vinden.',
       pl: 'Prawie lekka. Prawdopodobnie znajdziesz tu coś lepszego.',
       it: 'Quasi leggero. Probabilmente si può trovare qualcosa di meglio in giro.',
-      sv: 'Nästan lätt. Du kan säkert hitta något bättre runt.',
+      sv: 'Inte så tung. Du kan nog hitta nåt bättre.',
       tl: 'Halos magaan. Maaari mong mahanap ang isang bagay na mas mahusay sa paligid.',
       ht: 'Prèske lejè. Ou ka pwobableman jwenn yon bagay pi byen alantou.',
       tr: 'Hafifsiklet bir şey. Muhtemelen etrafta daha iyi bir şeyler bulabilirsin.',
@@ -22,7 +22,8 @@ export default [
       bg: 'Почти лек. Вероятно можете да намерите нещо по-добро наоколо.',
       ja: 'ほぼ軽量です。あなたはおそらくもっと良いものを見つけることができるでしょう。',
       ro: 'Ușor ca o pană. Probabil poți găsi ceva mai bun în jur.',
-      ko: '거의 가볍다. 아마도 주위에 더 나은 것을 찾을 수 있습니다.'
+      ko: '거의 가볍다. 아마도 주위에 더 나은 것을 찾을 수 있습니다.',
+      da: 'Næsten letvægt. Du kan sikkert finde noget bedre rundt.'
     }
   },
 
@@ -38,7 +39,7 @@ export default [
       nl: 'Je voelt je minder bekwaam door dit in je handen te houden.',
       pl: 'Czujesz się mniej wykwalifikowany, trzymając to w swoich rękach.',
       it: 'Ti senti meno abile solo tenendoti questo tra le mani.',
-      sv: 'Du känner dig mindre skicklig bara genom att hålla detta i dina händer.',
+      sv: 'Bara att hålla den i händerna får dig att känna dig oduglig.',
       ht: 'Ou santi ou mwens kalifye jis pa kenbe sa a nan men ou.',
       tr: 'Sadece tutmakla bile insan kendini yeteneksiz hissediyor, öyle bir yay.',
       hi: 'इसे हाथ में पकड़ते हीं आप नासमझ महसूस करेंगे।',
@@ -48,7 +49,8 @@ export default [
       bg: 'Чувствате се по-малко квалифицирани само ако държите това в ръцете си.',
       ja: 'これを手に持つだけでは、上手くいけないと感じます。',
       ro: 'Te simți mai puțin experimentat doar ținând acesta în mâinile tale.',
-      ko: '이것을 손에 쥐기만해도 실력이 주는 겄갓습니다.'
+      ko: '이것을 손에 쥐기만해도 실력이 주는 겄갓습니다.',
+      da: 'Du føler dig mindre dygtige bare ved at holde dette i dine hænder.'
     }
   },
 
@@ -61,12 +63,12 @@ export default [
       nl: 'Het is zo gebogen dat het elk moment kan breken.',
       ro: 'A fost curbat atât de tare încât ar putea să cedeze în orice clipă.',
       pt: 'Este arco é curvado a tal ponto que provavelmente se partirá a qualquer momento.',
-      fr: 'Cet arc est courbé à un point tel qu\'il va probablement se briser à tout moment.',
+      fr: 'Cet arc est tellement courbé qu\'il pourrait se briser à tout moment.',
       de: 'Dieser Bogen ist so stark gebogen, dass er wahrscheinlich jeden Moment einrasten wird. ',
       es: 'Este arco está curvado hasta tal punto que probablemente se romperá en cualquier momento.',
       pl: 'Ten łuk jest zakrzywiony do tego stopnia, że prawdopodobnie w każdej chwili pęknie.',
       it: 'Questo arco è curvo a tal punto che probabilmente si spezzerà in qualsiasi momento.',
-      sv: 'Denna båge är krökt i en sådan utsträckning att det förmodligen kommer att snäppa när som helst.',
+      sv: 'Den här pilbågen är så krökt att den lär gå av när som helst.',
       ht: 'Se banza sa a koube nan yon limit ke li pral pwobableman menen nan nenpòt ki moman.',
       el: 'Αυτό το τόξο είναι καμπύλο σε τέτοιο βαθμό που πιθανότατα θα σπάσει ανά πάσα στιγμή.',
       tl: 'Ang busog na ito ay may kurbatang sa isang lawak na ito ay maaaring snap sa anumang sandali.',
@@ -74,7 +76,8 @@ export default [
       tr: 'Bu yay, muhtemelen herhangi bir anda kopacak şekilde kavislenir.',
       cs: 'Tento luk je zakřivený do takové míry, že se v každém okamžiku pravděpodobně zaklapne.',
       ja: 'この弓はそれがおそらくいつでもスナップするような程度に湾曲しています。',
-      ko: '이 활은 언제나 스냅 될 정도까지 구부러져 있습니다.'
+      ko: '이 활은 언제나 스냅 될 정도까지 구부러져 있습니다.',
+      da: 'Denne bue er buet i en sådan grad, at den sikkert vil snappe til enhver tid.'
     }
   },
 
@@ -83,14 +86,14 @@ export default [
     description: {
       en: 'Whoever left this on the ground probably didn\'t meet a nice end.',
       ru: 'Тот кто оставил его на земле, вероятно, встретил не хороший конец',
-      fr: 'Quiconque a échappé ceci par terre n\'a sûrement pas rencontré une fin heureuse.',
+      fr: 'Quiconque a laissé cet arc par terre n\'a sûrement pas eu droit à une fin heureuse.',
       de: 'Wer das auf dem Boden gelassen hat, hat wahrscheinlich kein schönes Ende gefunden.',
       es: 'Quienquiera que haya dejado esto en el suelo probablemente no tuvo un buen final.',
       pt: 'Quem quer que tenha deixado isto no chão, provavelmente não teve um final agradável.',
       nl: 'Wie dit op de grond liet liggen, kwam waarschijnlijk niet aan een mooi einde.',
       pl: 'Ktokolwiek zostawił to na ziemi, prawdopodobnie nie spotkał się z miłym końcem.',
       it: 'Chiunque l\'abbia lasciato a terra probabilmente non ha avuto una bella fine.',
-      sv: 'Den som lämnat det här på marken antog förmodligen inte ett bra slut.',
+      sv: 'Den som tappade den här på marken dog nog ingen trevlig död.',
       ht: 'Nenpòt moun ki te kite sa a sou tè a pwobableman pa satisfè yon fen bèl.',
       el: 'Όποιος έφυγε από αυτό στο έδαφος πιθανότατα δεν κατάλαβε ένα καλό τέλος.',
       tl: 'Ang sinumang nag-iwan dito sa lupa ay malamang na hindi natutugunan ang magandang dulo.',
@@ -100,7 +103,8 @@ export default [
       cs: 'Ten, kdo tohle na zemi opustil, pravděpodobně neuskutečnil pěkný konec.',
       ja: 'これを地面に置いたままにしておいた人は誰もがうまく行かなかったでしょう。',
       ro: 'Oricine l-ar fi lăsat pe pământ, probabil că nu a avut un sfârșit frumos.',
-      ko: '이것을 남긴 사람은 아마도 안좋은 끝을 만난 것 같습니다.'
+      ko: '이것을 남긴 사람은 아마도 안좋은 끝을 만난 것 같습니다.',
+      da: 'Den, der forlod dette på jorden, opfyldte sandsynligvis ikke en god ende.'
     }
   },
 
@@ -111,12 +115,12 @@ export default [
       ru: 'Более продвинутое оружие. Довольно приятно смотреть на него.',
       de: 'Eine fortschrittlichere Waffe. Sehr schön anzusehen.',
       es: 'Un arma más avanzada. Bastante bonito de ver.',
-      fr: 'Une arme plus avancée. Plutôt agréable à regarder.',
+      fr: 'Une arme plus travaillée. Plutôt agréable à regarder.',
       pt: 'Uma arma mais avançada. Bastante agradável de se ver.',
       nl: 'Een geavanceerder wapen. Leuk om naar te kijken.',
       pl: 'Bardziej zaawansowana broń. Całkiem nieźle się na nią patrzy.',
       it: 'Un\'arma più avanzata. Piuttosto bello da guardare.',
-      sv: 'Ett mer avancerat vapen. Ganska trevligt att titta på.',
+      sv: 'Ett mer avancerat vapen. Ganska trevligt att se på.',
       ht: 'Yon zam ki pi avanse. Byen bèl gade.',
       tr: 'Daha gelişmiş bir silah. Bakması da oldukça güzel hissediyor.',
       tl: 'Isang mas advanced na armas. Masyadong maganda ang pagtingin.',
@@ -126,7 +130,8 @@ export default [
       bg: 'По-напреднало оръжие. Много хубаво е да се погледне.',
       ja: 'より高度な武器見てとてもうれしいです。',
       ro: 'O armă mai avansată. Destul de frumoasă la înfățișare.',
-      ko: '더 발전된 무기. 보기도 좃습니다.'
+      ko: '더 발전된 무기. 보기도 좃습니다.',
+      da: 'Et mere avanceret våben. Ganske rart at se på.'
     }
   },
 
@@ -143,7 +148,7 @@ export default [
       tl: 'Isama ang mga buto ng ... isang tao?',
       pl: 'Złożone razem z kośćmi.... kogoś?',
       it: 'Messo insieme alle ossa di..... qualcuno?',
-      sv: 'Sätta ihop med benen av ... någon?',
+      sv: 'Gjord av... någons... ben',
       el: 'Συνδυάστε με τα οστά του ... κάποιον;',
       bg: 'Заедно с костите на някой?',
       ht: 'Mete ansanm ak zo yo nan ... yon moun?',
@@ -152,7 +157,8 @@ export default [
       cs: 'Dej dohromady s kostmi ... někoho?',
       ja: '〜誰かの骨と一緒に？',
       ro: 'Făcut din oasele... cuiva?',
-      ko: '뼈로 만들어진 활… 누구의 뼈일가?'
+      ko: '뼈로 만들어진 활… 누구의 뼈일가?',
+      da: 'Sammen med knoglerne af ... nogen?'
     }
   },
 
@@ -161,7 +167,7 @@ export default [
     description: {
       en: 'An expert bow of an elegant race.',
       ru: 'Искусный лук изящный расы',
-      fr: 'Un arc d\'expert originant d\'une race élégant.',
+      fr: 'Un arc d\'expert venant d\'une race élégante.',
       de: 'Ein erfahrener Bogen eines eleganten Rennens.',
       es: 'Una reverencia experta de una raza olvidada.',
       pt: 'Um arco perito de uma raça elegante.',
@@ -178,7 +184,8 @@ export default [
       cs: 'Odborný luk elegantní závodu.',
       ja: '優雅なレースの巧妙な弓。',
       ro: 'Un arc expert al unei curse elegante.',
-      ko: '우아한 레이스의 전문가 활입니다.'
+      ko: '우아한 레이스의 전문가 활입니다.',
+      da: 'En ekspertbue af en elegant race.'
     }
   },
 
@@ -197,14 +204,15 @@ export default [
       it: 'Crudo, ma efficace. Trae il suo potere dalla minuscola foglia ad essa attaccata.',
       el: 'Ακατέργαστο αλλά αποτελεσματικό. Βγάζει τη δύναμή του από το μικροσκοπικό φύλλο που συνδέεται με αυτό.',
       bg: 'Сурови, но ефективни. Извлича силата си от малкия лист, прикрепен към него.',
-      sv: 'Rå, men effektiv. Ritar sin kraft från det lilla bladet som är fäst vid det.',
+      sv: 'Primitiv, men effektiv. Får sin kraft från ett litet fastsatt blad.',
       ht: 'Brut, men efikas. Trase pouvwa li soti nan fèy la ti tache ak li.',
       tr: 'Kaba, ama etkili. Gücünü, kendisine bağlı küçük yapraktan alır.',
       hi: 'अनगढ़, लेकिन प्रभावशाली। अपने उपर उगने वाली छोटी पत्ती इसे शक्ती देती हैं।',
       cs: 'Hrubý, ale účinný. Čerpá svou sílu z malého lístku, který je k němu připojen.',
       ja: '粗いが効果的。それに付いている小さな葉から力を引き出します。',
       ro: 'Crud, dar eficient. Își trage puterea din frunzulița atașată pe el.',
-      ko: '조잡하지만 효과적입니다. 그것에 붙어있는 작은 잎에서 그것의 힘을 당긴다.'
+      ko: '조잡하지만 효과적입니다. 그것에 붙어있는 작은 잎에서 그것의 힘을 당긴다.',
+      da: 'Rå, men effektiv. Træk sin kraft fra det lille blad fastgjort til det.'
     }
   },
 
@@ -215,7 +223,7 @@ export default [
       ru: 'Сжигает противника своим  ярко-красным окрасом.',
       de: 'Verbrennt den Feind mit der schärfsten roten Farbe.',
       es: 'Quema al enemigo con la coloración roja más picante.',
-      fr: 'Brûle ses ennemis avec la coloration rouge la plus épicée.',
+      fr: 'Brûle ses ennemis avec la coloration rouge la plus prononcée.',
       pt: 'Queima o inimigo com a mais picante das cores vermelhas.',
       nl: 'Verbrandt de vijand met de scherpste rode kleur.',
       pl: 'Wypala wroga z najostrzejszym czerwonym zabarwieniem.',
@@ -230,7 +238,8 @@ export default [
       cs: 'Spálí nepřítele s nejjemnějším červeným zbarvením.',
       ja: '最も辛い赤色の着色で敵を焼き払います。',
       ro: 'Arde inamicul cu cea mai intensă culoare de roșu.',
-      ko: '뜨거운 붉은 색으로 적을 태운다.'
+      ko: '뜨거운 붉은 색으로 적을 태운다.',
+      da: 'Brænder fjenden med den spicieste af rød farve.'
     }
   },
 
@@ -241,7 +250,7 @@ export default [
       ru: 'Лук, обычно используемый низкопоставленными королевскими лучниками. Хорошо сливается с растительностью.',
       de: 'Ein Bogen, der häufig von niederrangigen königlichen Bogenschützen verwendet wird. Passt sich gut der Vegetation an.',
       es: 'Un arco comúnmente usado por arqueros reales de bajo rango. Se integra bien con la vegetación.',
-      fr: 'Un arc couramment utilisé par les archers royaux de bas rang. S\'intègre bien à la végétation.',
+      fr: 'Un arc couramment utilisé par les archers royaux de bas rang. Se fond bien dans la végétation.',
       pt: 'Um arco comumente usado por arqueiros reais de baixo escalão. Mistura-se bem com a vegetação.',
       tl: 'Isang busog na karaniwang ginagamit ng mababang ranggo na mga mamamana. Pinagsasama-sama ng mga halaman.',
       nl: 'Een boog die vaak gebruikt wordt door laaggeplaatste koninklijke boogschutters. Past goed in de vegetatie.',
@@ -256,7 +265,8 @@ export default [
       cs: 'Luk běžně používaný nízkohodnotnými královskými lukostřelci. Směsi ve vegetaci.',
       ja: '低位の王室弓兵によく使われる弓。植生とよく調和しています。',
       ro: 'Un arc folosit în mod obișnuit de arcașii regali de rang inferior. Se amestecă bine cu vegetația.',
-      ko: '왕궁에 낮은 등급의 자주 스는 활. 식물과 잘 어울립니다.'
+      ko: '낮은 등급의 왕궁에 자주 사용되는 활. 식물과 잘 어울립니다.',
+      da: 'En bue, der almindeligvis anvendes af lavrangerede kongelige bueskytter. Blander godt med vegetationen.'
     }
   },
 
@@ -282,7 +292,8 @@ export default [
       cs: 'Mistrovsky vytvořený bandity z hlavních měst.',
       ja: '首都の盗賊によって巧妙に作られました。',
       ro: 'Meșteșugit de bandiții capitalelor.',
-      ko: '도시 산적들에 의해 훌륭하게 제작되었습니다.'
+      ko: '도시 산적들에 의해 훌륭하게 제작되었습니다.',
+      da: 'Mesterligt udformet af banditernes banditter.'
     }
   },
 
@@ -308,7 +319,8 @@ export default [
       cs: 'Vzácný luk používaný v největších válkách. Střelba z vás dělá pocit, že se nebe zhroutí.',
       ja: '最も偉大な戦争で使われる珍しい弓。それを撮影すると、天が崩壊するように感じるでしょう。',
       ro: 'Un arc rar, folosit în cele mai mari războaie. Să tragi te face să simți că cerurile se vor prăbuși.',
-      ko: '가장 큰 전쟁에서 사용 된 희귀 한 활. 그것을 쏘면 하늘이 무너지는 것처럼 느껴집니다.'
+      ko: '가장 큰 전쟁에서 사용 된 희귀 한 활. 그것을 쏘면 하늘이 무너지는 것처럼 느껴집니다.',
+      da: 'En sjælden bue, der bruges i de største krige. Skydning det får dig til at føle, at himlen vil kollapse.'
     }
   },
 
@@ -317,7 +329,7 @@ export default [
     description: {
       en: 'What is it? Is it ice? The world may never know...',
       ru: 'Что это? Это лед? Мир может никогда не узнать ...',
-      fr: 'Qu\'est-ce cela? De la glace? Le monde ne le saura peut-être jamais...',
+      fr: 'Qu\'est-ce que c\'est? De la glace? Le monde ne le saura peut-être jamais...',
       de: 'Was ist das? Was ist das? Ist es Eis? Die Welt wird es vielleicht nie erfahren...',
       tl: 'Ano ito? Yelo ba Ang mundo ay hindi maaaring malaman ...',
       es: '¿Qué es esto? ¿Es hielo? El mundo tal vez nunca lo sepa...',
@@ -334,7 +346,8 @@ export default [
       cs: 'Co je to? Je to led? Svět se nikdy nedozví ...',
       ja: 'それは何ですか？氷ですか？世界は知らないかもしれません...',
       ro: 'Ce e asta? Gheață? Lumea s-ar putea să nu afle niciodată.',
-      ko: '이게 뭐지? 얼음일까? 세상은 결코 알지 못할 것입니다 ...'
+      ko: '이게 뭐지? 얼음일까? 세상은 결코 알지 못할 것입니다 ...',
+      da: 'Hvad er det? Er det is? Verden kan aldrig vide ..'
     }
   },
 
@@ -345,7 +358,7 @@ export default [
       ru: 'Убивает так же красиво, как и выглядит.',
       de: 'Tötet so schön, wie es aussieht.',
       es: 'Mata tan maravillosamente como parece.',
-      fr: 'Ça tue aussi joliment que ça en a l\'air.',
+      fr: 'Tue aussi joliment que la beauté de cet arc.',
       pt: 'Mata tão bem como parece.',
       nl: 'Doodt net zo mooi als het eruit ziet.',
       pl: 'Zabija tak pięknie, jak wygląda.',
@@ -360,7 +373,8 @@ export default [
       cs: 'Zabije tak krásně, jak to vypadá.',
       ja: '見た目と同じくらい美しく殺します。',
       ro: 'Ucide la fel de frumos cum și arată.',
-      ko: '외형만큼 아름답게 적을 죽깁니다.'
+      ko: '외형만큼 아름답게 적을 죽깁니다.',
+      da: ''
     }
   },
 
@@ -371,7 +385,7 @@ export default [
       ru: 'Окруженный аурой, наводящей ужас. Ветер дует в том направлении, куда вы нацеливаетесь.',
       de: 'Umgeben von einer grässlichen Aura. Der Wind weht in die Richtung, in die du ihn zielst.',
       es: 'Rodeado de un aura espantosa. El viento sopla en la dirección en que lo apuntas.',
-      fr: 'Entouré d\'une aura affreuse. Le vent souffle dans la direction que vous visez.',
+      fr: 'Entouré d\'une aura horrible. Le vent souffle dans la direction où vous visez.',
       pt: 'Rodeado por uma aura horrível. O vento sopra na direção que você aponta.',
       nl: 'Omringd door een afschuwelijke aura. De wind waait in de richting waarin je hem richt.',
       pl: 'Otoczony upiorną aurą. Wiatr wieje w kierunku, w którym go celujesz.',
@@ -386,7 +400,8 @@ export default [
       cs: 'Obklopen hroznou aurou. Vítr fouká ve směru, kterým je zamíříte.',
       ja: 'ひどいオーラに囲まれています。風はあなたがそれを目指す方向に吹きます。',
       ro: 'Este înconjurat de o aură îngrozitoare. Vântul suflă în direcția în care țintești.',
-      ko: '무시 무시한 분위기로 둘러싸여 있습니다. 바람은 당신이 정하는 방향으로 불어납니다.'
+      ko: '무시 무시한 분위기로 둘러싸여 있습니다. 바람은 당신이 정하는 방향으로 불어납니다.',
+      da: 'Omgivet af en forfærdelig aura. Vinden blæser i retningen du målretter mod.'
     }
   },
 
@@ -397,7 +412,7 @@ export default [
       ru: 'Настолько пугающий, что немногим хватает мужества держать его.',
       de: 'So beängstigend, dass nur wenige den Mut haben, es zu halten.',
       es: 'Tan aterrador que pocos tienen la coraje para sostenerlo.',
-      fr: 'Une arme si effrayante que peu de gens ont le courage de la brandir.',
+      fr: 'Un arc si effrayant que peu de gens ont le courage de le brandir.',
       pt: 'Tão assustador que poucos têm a coragem de o segurar.',
       nl: 'Zo eng dat weinigen het lef hebben om het vast te houden.',
       tl: 'Kaya nakakatakot na ilang may mga lakas ng loob upang i-hold ito.',
@@ -412,7 +427,8 @@ export default [
       cs: 'Tak děsivé, že jen málokdo má odvahu držet to.',
       ja: 'それを保持するための勇気を持っている人はほとんどいないので怖い。',
       ro: 'Atât de înfricoșător că puțini au curajul să-l țină.',
-      ko: '너무 무섭기 때문에 그것을 잡을 용기가 있는자는 거의 없습니다.'
+      ko: '너무 무섭기 때문에 그것을 잡을 용기가 있는자는 거의 없습니다.',
+      da: 'Så skræmmende, at få har modet til at holde det.'
     }
   },
 
@@ -423,7 +439,7 @@ export default [
       ru: 'Насыщенный первобытной яростью, ваши противники дрожат при виде этого оружия. Пиу Пиу - последнее, что они услышат.',
       de: 'Eingebettet in eine urtümliche Wut, zittern deine Feinde beim Anblick dieser Waffe. Kirchenbank ist das Letzte, was sie je hören werden.',
       es: 'Envueltos en una furia primigenia, tus enemigos tiemblan al ver esta arma. Pew Pew Pew es lo último que oirán.',
-      fr: 'Encastrés dans une rage primitive, vos ennemis tremblent à la vue de cette arme. Pew pew pew est la dernière chose qu\'ils n\'entendront jamais.',
+      fr: 'Enfermés dans une rage primitive, vos ennemis tremblent à la vue de cette arme. Pew pew pew est la dernière chose qu\'ils n\'entendront jamais.',
       pt: 'Embebidos em uma raiva primária, seus inimigos tremem ao ver esta arma. O banco de bancos é a última coisa que eles vão ouvir.',
       nl: 'Ingebed in een oerwoede, beven je vijanden bij het zien van dit wapen. Pew pew is het laatste wat ze ooit zullen horen.',
       pl: 'Osadzeni w pierwotnej wściekłości, twoi wrogowie drżą na widok tej broni. Pew pewna ławka jest ostatnią rzeczą, jaką kiedykolwiek usłyszą.',
@@ -438,7 +454,8 @@ export default [
       cs: 'Vloženi s prvotním vztekem, vaši nepřátelé se třesou při pohledu na tuto zbraň. Pew je poslední věc, kterou kdy slyší.',
       ja: 'この武器を見てあなたの敵は震え上がります。ピューピューは彼らが今までに聞くことになる最後のものです。',
       ro: 'Cuprins de o furie primordială, dușmanii tăi tremură la vederea acestei arme. Pew pew e ultimul lucru pe care-l vor auzi vreodată.',
-      ko: '원시적 인 분노덕분의, 적들은 이 무기를 보기만해도 겁의질려 떫니다. 이 활을 소는 것이 적들이 마지막으로 듣게될 소리입니다.'
+      ko: '원시적 인 분노덕분의, 적들은 이 무기를 보기만해도 겁의질려 떫니다. 이 활을 소는 것이 적들이 마지막으로 듣게될 소리입니다.',
+      da: 'Embedet med et primært vrede, dine fjender ryster ved synet af dette våben. Pew pew er det sidste, de nogensinde vil høre.'
     }
   }
 

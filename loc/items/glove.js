@@ -21,7 +21,8 @@ export default [
       sv: 'Skinnband av läder som täcker dina svaga händer. Att dra på bågstången är mycket lättare för dig nu.',
       ko: '너의 미약 한 손을 감싸는 가죽 끈. 지금은 귀걸이를 당기는 것이 훨씬 쉽습니다.',
       ro: 'Curele de piele ce-ți acoperă mâinile slabe. Este mult mai ușor pentru tine acum să tragi de arc.',
-      tl: 'Mga strap ng katad na sumasaklaw sa iyong mga mahihinang kamay. Mas madali para sa iyo ang paghila ng bowstring ngayon.'
+      tl: 'Mga strap ng katad na sumasaklaw sa iyong mga mahihinang kamay. Mas madali para sa iyo ang paghila ng busog na string ngayon.',
+      da: 'Læderremme dækker dine svage hænder. At trække bøjlen er meget nemmere for dig nu.'
     }
   },
 
@@ -36,7 +37,7 @@ export default [
       nl: 'Gesponnen garen van gestolen schapen maakt deze warme handschoenen een genot om te dragen.',
       pl: 'Przędza przędzy z kradzionych owiec sprawia, że te ciepłe rękawice są przyjemne w noszeniu.',
       it: 'Il filato di pecora rubata rende questi guanti caldi un piacere da indossare.',
-      fr: 'Le filé de moutons volés fait de ces gants chauds un plaisir à porter.',
+      fr: 'La laine de moutons volée fait de ces gants chauds un plaisir à porter.',
       el: 'Το νήμα από τα κλεμμένα πρόβατα κάνει αυτά τα ζεστά γάντια μια ευχαρίστηση να φορέσουν.',
       bg: 'Преждата от откраднати овце прави тези топли ръкавици удоволствие да се носят.',
       hi: 'चुरायी गयी बकरियों के ऊन से बनाए गए गरम दस्ताने पहन्ने में अच्छे लगते है।',
@@ -47,7 +48,8 @@ export default [
       sv: 'Spunnet garn från stulet får gör dessa varma handskar ett nöje att bära.',
       ko: '도난당한 양의 방적사가이 따뜻한 장갑을 착용하는 즐거움으로 만듭니다.',
       ro: 'Firele toarse de la o oaie furată face aceste mănuși o adevărată plăcere să le porți.',
-      tl: 'Ang sinulid na sinulid mula sa ninakaw na tupa ay gumagawa ng mga mainit na guwantes na kasiyahan sa pagsusuot.'
+      tl: 'Ang sinulid na sinulid mula sa ninakaw na tupa ay gumagawa ng mga mainit na guwantes na kasiyahan sa pagsusuot.',
+      da: 'Spundet garn fra stjålet får gør disse varme handsker en fornøjelse at bære.'
     }
   },
 
@@ -73,7 +75,8 @@ export default [
       sv: 'Dina fingrar kan knappt röra sig i dessa styva lädervästar.',
       ko: '손가락이이 딱딱한 가죽 끈으로 간신히 움직일 수 있습니다.',
       ro: 'Degetele tale abia se pot mișca în aceste mănuși de piele rigide.',
-      tl: 'Ang iyong mga daliri ay maaaring bahagyang lumipat sa mga matigas na mitts.'
+      tl: 'Ang iyong mga daliri ay maaaring bahagyang lumipat sa mga matigas na mitts.',
+      da: 'Dine fingre kan næppe bevæge sig i disse stive lædermusser.'
     }
   },
 
@@ -99,7 +102,8 @@ export default [
       sv: 'Att klicka på ljud rör dig med dig när du bär dem.',
       ko: '딸깍 소리가 나면 딸랑 딸랑 소리가납니다.',
       ro: 'Sunete zăngănitoare călătoresc cu tine în timp ce porți aceste mănuși.',
-      tl: 'Ang pag-click sa mga tunog ay naglalakbay sa iyo habang nagsuot ka ng mga ito.'
+      tl: 'Ang pag-click sa mga tunog ay naglalakbay sa iyo habang nagsuot ka ng mga ito.',
+      da: 'Klikning lyder rejse med dig, når du bærer disse.'
     }
   },
 
@@ -114,7 +118,7 @@ export default [
       nl: 'Zacht-ijzeren handschoenen bieden iets meer bescherming, hoewel uw handen nu koud zijn.',
       pl: 'Miękko-żelazne rękawice zapewniają nieco większą ochronę, chociaż teraz Twoje ręce są zimne.',
       it: 'I guanti in ferro dolce forniscono un po\' più protezione, anche se le mani sono fredde ora.',
-      fr: 'Les gants en fer doux offrent un peu plus de protection, bien que vos mains soient froides maintenant.',
+      fr: 'Les gants en fer léger offrent un peu plus de protection, bien que vos mains soient froides maintenant.',
       el: 'Τα γάντια από μαλακό σίδερο παρέχουν λίγο περισσότερη προστασία, αν και τα χέρια σας είναι κρύα τώρα.',
       bg: 'Ръкавиците от меко желязо осигуряват малко повече защита, въпреки че ръцете ви вече са студени.',
       hi: 'मुलायम लोहे के दस्ताने थोड़ी ज़्यादा रक्षा करते है, बस आपके हाथ ठंडे पद जाएँगे।',
@@ -125,12 +129,13 @@ export default [
       sv: 'Järnhandskar ger lite mer skydd, även om dina händer är kalla nu.',
       ko: '소프트 아이언 장갑은 손안에 차가워졌지만 약간의 보호 기능을 제공합니다.',
       ro: 'Mănușile din fier moale oferă puțin mai multă protecție, deși mâinile tale sunt reci acum.',
-      tl: 'Ang mga guwantes na soft-iron ay nagbibigay ng kaunting proteksyon, bagaman ang iyong mga kamay ay malamig na ngayon.'
+      tl: 'Ang mga guwantes na soft-iron ay nagbibigay ng kaunting proteksyon, bagaman ang iyong mga kamay ay malamig na ngayon.',
+      da: 'Jernhandsker giver lidt mere beskyttelse, selvom dine hænder er kolde nu.'
     }
   },
 
   {
-    name       : {$$: 'Imbued Gloves' },
+    name       : {$$: 'Imbued Battlefists' },
     description: {
       en: 'Mitts made out of unknown material... it shines...',
       ru: 'Рукавицы, сделанные из неизвестного материала ... они сияют...',
@@ -151,7 +156,8 @@ export default [
       sv: 'Mitts gjorda av okänt material ... det lyser ...',
       ko: '미지의 물질로 만들어지는 조형물 ... 빛난다.',
       ro: 'Mănuși făcute din material necunoscut... strălucește...',
-      tl: 'Mitts na ginawa ng hindi kilalang materyal ... kumikislap ito ...'
+      tl: 'Mitts na ginawa ng hindi kilalang materyal ... kumikislap ito ...',
+      da: 'Mitts lavet af ukendt materiale ... det skinner ...'
     }
   },
 
@@ -168,7 +174,7 @@ export default [
       it: 'Qualche generale di guerra deve averle lasciate cadere..... probabilmente anche involontariamente.',
       el: 'Κάποιος γενικός πόλεμος πρέπει να έχει πέσει αυτά ... πιθανώς και ακούσια.',
       bg: 'Някой военен генерал сигурно е изпуснал тези ... вероятно неволно.',
-      fr: 'Un général de guerre a dû a fait tomber ces....probablement involontairement aussi.',
+      fr: 'Un général de guerre a dû les faire tomber... probablement involontairement aussi.',
       hi: 'किसी सेनापति ने इन्हें गिरा दिया होगा... ग़लती से।',
       cs: 'Nějaký válečný generál je musel upustit ... pravděpodobně i neúmyslně.',
       ja: '何人かの将軍はこれらを落としたにちがいない…おそらく意図せずに。',
@@ -177,7 +183,8 @@ export default [
       sv: 'Vissa krigsmän måste ha tappat dessa ... förmodligen oavsiktligt.',
       ko: '일부 전쟁 장군은 아마도 이것들을 떨어 뜨려야 만했을 것입니다 ... 아마도 우연히도.',
       ro: 'Un general de război trebuie să fi scăpat astea...probabil neintenționat.',
-      tl: 'Ang ilan sa pangkalahatang digma ay dapat na bumaba sa mga ito ... malamang na hindi sinasadya din.'
+      tl: 'Ang ilan sa pangkalahatang digma ay dapat na bumaba sa mga ito ... malamang na hindi sinasadya din.',
+      da: 'Nogle krigsgeneralere må have tabt disse ... formentlig utilsigtet.'
     }
   },
 
@@ -203,12 +210,13 @@ export default [
       sv: 'Brand är ingen match för dina händer när du bär dessa smaragd vantar.',
       ko: '이 에메랄드 장갑을 착용하면 불이 당신 손에 닿지 않습니다.',
       ro: 'Focul nu se compară cu mâinile tale în timp ce porți aceste mănuși de smarald.',
-      tl: 'Ang sunog ay hindi tugma para sa iyong mga kamay habang nagsusuot ka ng mga emerald mitts.'
+      tl: 'Ang sunog ay hindi tugma para sa iyong mga kamay habang nagsusuot ka ng mga emerald mitts.',
+      da: 'Brande er ingen kamp for dine hænder, mens du bærer disse smaragd luffer.'
     }
   },
 
   {
-    name       : {$$: 'Gloves of Empowerment' },
+    name       : {$$: 'Empowerment Gloves' },
     description: {
       en: 'Give a false sense of power.',
       ru: 'Дает ложное чувство силы.',
@@ -220,7 +228,7 @@ export default [
       bg: 'Дава фалшиво чувство за сила.',
       pl: 'Daje fałszywe poczucie władzy.',
       it: 'Dà un falso senso del potere.',
-      fr: 'Ça donne une fausse impression de pouvoir.',
+      fr: 'Ces gants donnent une fausse impression de pouvoir.',
       hi: 'शक्ति की झूटि भावना देते है ये दस्ताने।',
       cs: 'Dává falešný pocit moci.',
       ja: '誤った権力を与えます。',
@@ -229,7 +237,8 @@ export default [
       sv: 'Ge en falsk maktkänsla.',
       ko: '거짓된 힘을주십시오.',
       ro: 'Dau un fals sentiment de putere.',
-      tl: 'Magbigay ng maling kahulugan ng kapangyarihan.'
+      tl: 'Magbigay ng maling kahulugan ng kapangyarihan.',
+      da: 'Giv en falsk følelse af magt.'
     }
   },
 
@@ -246,7 +255,7 @@ export default [
       tl: 'Peke na walang init pagod na walang takot.',
       bg: 'Ковано без топлина, носена без страх.',
       it: 'Forgiato senza calore, indossato senza paura.',
-      fr: 'Forgé sans chaleur, porté sans crainte.',
+      fr: 'Forgés sans chaleur, portés sans crainte.',
       hi: 'आग के बिना रचे, डर के बिना धरे।',
       cs: 'Kované bez tepla, nošené bez strachu.',
       ja: '熱をかけずに鍛造し、恐れることなく着用。',
@@ -255,12 +264,13 @@ export default [
       sv: 'Smidd utan värme, sliten utan rädsla.',
       ko: '열없이 단조, 두려움없이 착용.',
       ro: 'Forjate fără căldură, purtate fără frică.',
-      el: 'Σφυρήλατο χωρίς ζέστη, φοριέται χωρίς φόβο.'
+      el: 'Σφυρήλατο χωρίς ζέστη, φοριέται χωρίς φόβο.',
+      da: 'Smedet uden varme, slidt uden frygt.'
     }
   },
 
   {
-    name       : {$$: 'Eternal Gauntlets' },
+    name       : {$$: 'Eternals' },
     description: {
       en: 'Gloves sought by warriors for eras on end...at last...it is found.',
       ru: 'Перчатки разыскиваемые воинами на протяжении эпох... наконец... нашлись.',
@@ -272,7 +282,7 @@ export default [
       it: 'Guanti ricercati dai guerrieri per epoche.....finalmente....si trova.',
       el: 'Γάντια που αναζητούν οι πολεμιστές για τις εποχές ... επιτέλους ... βρίσκεται.',
       bg: 'Ръкавици, търсени от воини за края на епохите ... най-накрая ... се открива.',
-      fr: 'Gants recherchés par les guerriers depuis siècles....enfin...on les trouve.',
+      fr: 'Gants recherchés par les guerriers depuis des siècles... on les a enfin trouvés.',
       hi: 'युगों युगों तक योधाओं ने इन्हें खोजा है...आख़िर कार...मिल ही गए।',
       cs: 'Rukavice hledané válečníky pro éry na konci ... konečně ... to je nalezeno.',
       ja: '手袋は最後に時代のために戦士によって捜しました...ついに...それは見つかりました。',
@@ -281,12 +291,13 @@ export default [
       sv: 'Handskar eftersträvade av krigare för eroder i slutet ... äntligen ... det finns.',
       ko: '끝날 무렵 전사들이 찾던 장갑 ... 마침내 ... 찾았습니다.',
       ro: 'Mănuși căutate de războinici pentru ere în șir...în cele din urmă ... au fost găsite.',
-      tl: 'Mga guwantes na hinahangad ng mga mandirigma para sa mga panahon sa katapusan ... sa wakas ... ito ay natagpuan.'
+      tl: 'Mga guwantes na hinahangad ng mga mandirigma para sa mga panahon sa katapusan ... sa wakas ... ito ay natagpuan.',
+      da: 'Handsker efterfulgt af krigere til eroder på slutningen ... endelig ... det er fundet.'
     }
   },
 
   {
-    name       : {$$: 'Gloves of Midas' },
+    name       : {$$: 'Phrygians' },
     description: {
       en: 'Rumours say that a touch from these gloves turns your foes into gold...your hand is strangely heavy...',
       ru: 'Слухи говорят, что прикосновение этой перчаток превращает твоих врагов в золото... твоя рука странно тяжелая ...',
@@ -298,7 +309,7 @@ export default [
       bg: 'Слуховете казват, че едно докосване от тези ръкавици превръща враговете ви в злато ... ръката ви е странно тежка ...',
       pl: 'Plotki mówią, że dotyk z tych rękawic zamienia twoich wrogów w złoto....twoja ręka jest dziwnie ciężka...',
       it: 'Si dice che un tocco di questi guanti trasforma i tuoi nemici in oro.....la tua mano è stranamente pesante.....',
-      fr: 'Les rumeurs disent qu\'un contact de ces gants transforme vos ennemis en or...votre main est étrangement lourde....',
+      fr: 'Les rumeurs disent qu\'en touchant vos ennemis avec ces gants, ils se changent en or... votre main est étrangement lourde...',
       hi: 'अफ़वाए कहती है, इन दस्तानो के स्पर्श से दुश्मन सोना बन जाते है...आपका हाथ भारी लग रहा है...',
       cs: 'Pověsti říkají, že dotek z těchto rukavic promění tvé nepřátele na zlato ... tvoje ruka je podivně těžká ...',
       ja: '噂によると、これらの手袋から触れるとあなたの敵が金に変わります...あなたの手は奇妙に重いのです...',
@@ -307,12 +318,13 @@ export default [
       sv: 'Rykten säger att en röra från dessa handskar gör dina fiender till guld ... din hand är konstigt tung ...',
       ko: '소문에 의하면이 장갑에서 손을 대면 원수가 금으로 변합니다 ... 손이 이상하게 무거워 ...',
       ro: 'Zvonurile spun că o atingere a acestor mănuși transformă dușmanii tăi în aur...mâna ta este totuși straniu de grea...',
-      tl: 'Sinasabi ng mga alingawngaw na ang isang pindutin mula sa mga guwantes ay lumiliko ang iyong mga kaaway sa ginto ... ang iyong kamay ay strangely mabigat ...'
+      tl: 'Sinasabi ng mga alingawngaw na ang isang pindutin mula sa mga guwantes ay lumiliko ang iyong mga kaaway sa ginto ... ang iyong kamay ay strangely mabigat ...',
+      da: 'Rygerne siger, at et tryk fra disse handsker gør dine fjender til guld ... din hånd er mærkeligt tung ...'
     }
   },
 
   {
-    name       : {$$: 'Titans Mitts' },
+    name       : {$$: 'Titans' },
     description: {
       en: 'Gloves so powerful in their nature that the very air shimmers as you wave your hand.',
       ru: 'Перчатки настолько мощные по своей природе, что сам воздух мерцает, когда вы машете рукой.',
@@ -333,7 +345,8 @@ export default [
       sv: 'Handskar så kraftfulla i sin natur att luften simmar som du vinkar i handen.',
       ko: '너의 손을 흔드는 것처럼 매우 공기가 반짝이는 그들의 본질적인 장갑.',
       ro: 'Mănuși atât de puternice în natura lor încât chiar și aerul strălucește în timp ce-ți miști mâna.',
-      tl: 'Ang mga guwantes ay napakalakas sa kanilang kalikasan na ang napaka-hangin na shimmers habang binabaluktot mo ang iyong kamay.'
+      tl: 'Ang mga guwantes ay napakalakas sa kanilang kalikasan na ang napaka-hangin na shimmers habang binabaluktot mo ang iyong kamay.',
+      da: 'Handsker så kraftfulde i deres natur, at selve luften glider som du bøjer din hånd.'
     }
   }
 
